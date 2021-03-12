@@ -4,7 +4,7 @@
 [ar ❗](#ar)|[az ❗](#az)|[be ❗](#be)|[bg ❗](#bg)|[bn ❗](#bn)|[bs ❗](#bs)|[ca ❗](#ca)|[cs ❗](#cs)|[cy ❗](#cy)|[da ❗](#da)
 [de ❗](#de)|[de_CH ❗](#de_CH)|[el ❗](#el)|[es ✔](#es)|[et ❗](#et)|[eu ❗](#eu)|[fa ❗](#fa)|[fi ❗](#fi)|[fil ❗](#fil)|[fr ❗](#fr)
 [gl ❗](#gl)|[he ❗](#he)|[hi ❗](#hi)|[hr ❗](#hr)|[hu ❗](#hu)|[hy ❗](#hy)|[id ❗](#id)|[is ❗](#is)|[it ❗](#it)|[ja ❗](#ja)
-[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ❗](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
+[ka ❗](#ka)|[kk ❗](#kk)|[km ❗](#km)|[kn ❗](#kn)|[ko ❗](#ko)|[lt ❗](#lt)|[lv ❗](#lv)|[mk ✔](#mk)|[mn ❗](#mn)|[mr ❗](#mr)
 [ms ❗](#ms)|[nb ❗](#nb)|[ne ❗](#ne)|[nl ❗](#nl)|[nn ❗](#nn)|[oc ❗](#oc)|[pl ❗](#pl)|[ps ❗](#ps)|[pt ❗](#pt)|[pt_BR ❗](#pt_BR)
 [ro ❗](#ro)|[ru ✔](#ru)|[sc ❗](#sc)|[si ❗](#si)|[sk ❗](#sk)|[sl ❗](#sl)|[sq ❗](#sq)|[sr_Cyrl ❗](#sr_Cyrl)|[sr_Latn ❗](#sr_Latn)|[sr_Latn_ME ❗](#sr_Latn_ME)
 [sv ❗](#sv)|[sw ❗](#sw)|[tg ❗](#tg)|[th ❗](#th)|[tk ❗](#tk)|[tl ❗](#tl)|[tr ❗](#tr)|[ug ❗](#ug)|[uk ❗](#uk)|[ur ❗](#ur)
@@ -16,9 +16,24 @@
 ## ar
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -26,7 +41,7 @@
 ## az
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 326, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -53,10 +68,13 @@
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -80,11 +98,15 @@
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -129,6 +151,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -142,6 +168,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -186,6 +213,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -196,6 +224,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -347,7 +377,7 @@ into your web browser:
 ## be
 
 <details>
-<summary>show<small> (all missing: 321, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 336, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -374,10 +404,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -401,11 +434,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -450,6 +487,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -463,6 +504,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -507,6 +549,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -517,6 +560,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -678,7 +723,7 @@ into your web browser:
 ## bg
 
 <details>
-<summary>show<small> (all missing: 289, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 304, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -705,10 +750,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -732,11 +780,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -781,6 +833,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -794,6 +850,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -838,6 +895,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -848,6 +906,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -977,7 +1037,7 @@ into your web browser:
 ## bn
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 326, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1004,10 +1064,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -1031,11 +1094,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -1080,6 +1147,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -1093,6 +1164,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -1137,6 +1209,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -1147,6 +1220,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -1298,7 +1373,7 @@ into your web browser:
 ## bs
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 40)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -1325,10 +1400,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -1352,11 +1430,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -1401,6 +1483,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -1414,6 +1500,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -1458,6 +1545,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -1468,6 +1556,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -1594,7 +1684,7 @@ into your web browser:
 ## ca
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 260, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1618,8 +1708,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -1642,9 +1735,13 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -1674,6 +1771,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Pagination Navigation
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -1685,6 +1786,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -1721,6 +1823,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -1729,6 +1832,8 @@ into your web browser:
  * json : This device
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -1848,7 +1953,7 @@ into your web browser:
 ## cs
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -1872,8 +1977,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -1896,9 +2004,13 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -1928,6 +2040,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Pagination Navigation
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -1940,6 +2056,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -1976,6 +2093,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -1984,6 +2102,8 @@ into your web browser:
  * json : This device
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -2104,7 +2224,7 @@ into your web browser:
 ## cy
 
 <details>
-<summary>show<small> (all missing: 326, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 341, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -2131,10 +2251,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -2158,11 +2281,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -2207,6 +2334,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -2220,6 +2351,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -2264,6 +2396,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -2274,6 +2407,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -2440,7 +2575,7 @@ into your web browser:
 ## da
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2464,8 +2599,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -2488,9 +2626,13 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -2521,6 +2663,10 @@ into your web browser:
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -2532,6 +2678,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -2568,6 +2715,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -2576,6 +2724,8 @@ into your web browser:
  * json : This device
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -2696,8 +2846,15 @@ into your web browser:
 ## de
 
 <details>
-<summary>show<small> (all missing: 10, including not present: 10)</small></summary>
+<summary>show<small> (all missing: 25, including not present: 25)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
@@ -2705,9 +2862,17 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -2715,7 +2880,7 @@ into your web browser:
 ## de_CH
 
 <details>
-<summary>show<small> (all missing: 154, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 169, including not present: 41)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -2739,8 +2904,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -2763,9 +2931,13 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -2796,6 +2968,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Pagination Navigation
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -2807,6 +2983,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -2843,6 +3020,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -2851,6 +3029,8 @@ into your web browser:
  * json : This device
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -2878,7 +3058,7 @@ into your web browser:
 ## el
 
 <details>
-<summary>show<small> (all missing: 230, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 245, including not present: 41)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you.
@@ -2900,8 +3080,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -2923,7 +3106,11 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -2955,6 +3142,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Pagination Navigation
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -2966,6 +3157,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -2994,6 +3186,7 @@ into your web browser:
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
  * json : The :attribute must be a valid role.
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -3001,6 +3194,8 @@ into your web browser:
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This device
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : to
  * json : Token Name
@@ -3123,7 +3318,7 @@ All lines are translated 😊
 ## et
 
 <details>
-<summary>show<small> (all missing: 291, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 306, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3150,10 +3345,13 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -3177,11 +3375,15 @@ All lines are translated 😊
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -3226,6 +3428,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -3239,6 +3445,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -3283,6 +3490,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -3293,6 +3501,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -3424,7 +3634,7 @@ into your web browser:
 ## eu
 
 <details>
-<summary>show<small> (all missing: 256, including not present: 37)</small></summary>
+<summary>show<small> (all missing: 271, including not present: 52)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -3448,8 +3658,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team?
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -3472,9 +3685,13 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -3506,6 +3723,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Pagination Navigation
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -3518,6 +3739,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -3555,6 +3777,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -3565,6 +3788,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -3689,11 +3914,18 @@ into your web browser:
 ## fa
 
 <details>
-<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
+<summary>show<small> (all missing: 39, including not present: 39)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -3705,14 +3937,22 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
 
@@ -3722,7 +3962,7 @@ into your web browser:
 ## fi
 
 <details>
-<summary>show<small> (all missing: 282, including not present: 173)</small></summary>
+<summary>show<small> (all missing: 297, including not present: 188)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -3749,10 +3989,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -3776,11 +4019,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password? : not present
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -3821,6 +4068,10 @@ into your web browser:
  * json : Page Expired : not present
  * json : Pagination Navigation : not present
  * json : Password : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -3834,6 +4085,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -3875,6 +4127,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -3885,6 +4138,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -4013,7 +4268,7 @@ into your web browser:
 ## fil
 
 <details>
-<summary>show<small> (all missing: 299, including not present: 198)</small></summary>
+<summary>show<small> (all missing: 314, including not present: 213)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration. : not present
@@ -4040,10 +4295,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -4067,11 +4325,15 @@ into your web browser:
  * json : Email : not present
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one. : not present
  * json : Forgot Your Password? : not present
  * json : Forgot your password? : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -4116,6 +4378,10 @@ into your web browser: : not present
  * json : Page Expired : not present
  * json : Pagination Navigation : not present
  * json : Password : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -4129,6 +4395,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -4173,6 +4440,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -4183,6 +4451,8 @@ into your web browser: : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records. : not present
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team. : not present
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -4322,11 +4592,26 @@ into your web browser: : not present
 ## fr
 
 <details>
-<summary>show<small> (all missing: 3, including not present: 3)</small></summary>
+<summary>show<small> (all missing: 18, including not present: 18)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Log in : not present
  * json : Log out : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -4334,7 +4619,7 @@ into your web browser: : not present
 ## gl
 
 <details>
-<summary>show<small> (all missing: 254, including not present: 145)</small></summary>
+<summary>show<small> (all missing: 269, including not present: 160)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4358,8 +4643,11 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -4382,9 +4670,13 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -4416,6 +4708,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -4428,6 +4724,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -4465,6 +4762,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -4474,6 +4772,8 @@ into your web browser: : not present
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -4597,7 +4897,7 @@ into your web browser: : not present
 ## he
 
 <details>
-<summary>show<small> (all missing: 247, including not present: 139)</small></summary>
+<summary>show<small> (all missing: 262, including not present: 154)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -4621,8 +4921,11 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -4645,9 +4948,13 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -4677,6 +4984,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -4689,6 +5000,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -4725,6 +5037,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -4733,6 +5046,8 @@ into your web browser: : not present
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -4853,7 +5168,7 @@ into your web browser: : not present
 ## hi
 
 <details>
-<summary>show<small> (all missing: 303, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 318, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -4880,10 +5195,13 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -4907,11 +5225,15 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -4956,6 +5278,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -4969,6 +5295,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -5013,6 +5340,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -5023,6 +5351,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -5166,7 +5496,7 @@ into your web browser:
 ## hr
 
 <details>
-<summary>show<small> (all missing: 276, including not present: 167)</small></summary>
+<summary>show<small> (all missing: 291, including not present: 182)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -5193,9 +5523,12 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -5218,10 +5551,14 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -5261,6 +5598,10 @@ into your web browser: : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -5274,6 +5615,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -5313,6 +5655,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -5323,6 +5666,8 @@ into your web browser: : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -5452,7 +5797,7 @@ into your web browser: : not present
 ## hu
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 259, including not present: 152)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5476,8 +5821,11 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -5500,9 +5848,13 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -5532,6 +5884,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -5543,6 +5899,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -5579,6 +5936,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -5587,6 +5945,8 @@ into your web browser: : not present
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -5705,7 +6065,7 @@ into your web browser: : not present
 ## hy
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 138)</small></summary>
+<summary>show<small> (all missing: 260, including not present: 153)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -5729,8 +6089,11 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -5753,9 +6116,13 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -5787,6 +6154,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -5798,6 +6169,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -5834,6 +6206,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -5842,6 +6215,8 @@ into your web browser: : not present
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -5960,7 +6335,7 @@ into your web browser: : not present
 ## id
 
 <details>
-<summary>show<small> (all missing: 137, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 152, including not present: 150)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -5982,8 +6357,11 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -6003,7 +6381,11 @@ into your web browser: : not present
  * json : Editor : not present
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -6033,6 +6415,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -6042,6 +6428,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -6076,6 +6463,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -6083,6 +6471,8 @@ into your web browser: : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : to : not present
  * json : Token Name : not present
@@ -6106,7 +6496,7 @@ into your web browser: : not present
 ## is
 
 <details>
-<summary>show<small> (all missing: 293, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 308, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6133,10 +6523,13 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -6160,11 +6553,15 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -6209,6 +6606,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -6222,6 +6623,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -6266,6 +6668,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -6276,6 +6679,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -6409,9 +6814,23 @@ into your web browser:
 ## it
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 15, including not present: 15)</small></summary>
 
- * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
+ * json : Please provide your name. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -6419,13 +6838,20 @@ into your web browser:
 ## ja
 
 <details>
-<summary>show<small> (all missing: 149, including not present: 58)</small></summary>
+<summary>show<small> (all missing: 164, including not present: 73)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Are you sure you would like to leave this team? : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : Forgot Your Password? : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -6445,10 +6871,15 @@ into your web browser:
  * json : Not Found : not present
  * json : of : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please confirm your password before continuing. : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : results : not present
  * json : Server Error : not present
@@ -6464,6 +6895,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -6471,6 +6903,8 @@ into your web browser:
  * json : This action is unauthorized. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : to : not present
  * json : Too Many Attempts. : not present
@@ -6577,7 +7011,7 @@ into your web browser:
 ## ka
 
 <details>
-<summary>show<small> (all missing: 272, including not present: 166)</small></summary>
+<summary>show<small> (all missing: 287, including not present: 181)</small></summary>
 
  * json : A fresh verification link has been sent to your email address. : not present
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -6604,9 +7038,12 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link. : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -6629,10 +7066,14 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -6672,6 +7113,10 @@ into your web browser: : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Page Expired : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -6685,6 +7130,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -6724,6 +7170,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -6734,6 +7181,8 @@ into your web browser: : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -6859,7 +7308,7 @@ into your web browser: : not present
 ## kk
 
 <details>
-<summary>show<small> (all missing: 245, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 260, including not present: 152)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -6883,8 +7332,11 @@ into your web browser: : not present
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -6907,9 +7359,13 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -6939,6 +7395,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -6950,6 +7410,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -6986,6 +7447,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -6994,6 +7456,8 @@ into your web browser: : not present
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -7113,7 +7577,7 @@ into your web browser: : not present
 ## km
 
 <details>
-<summary>show<small> (all missing: 287, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 302, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7140,10 +7604,13 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -7167,11 +7634,15 @@ into your web browser: : not present
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -7216,6 +7687,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -7229,6 +7704,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -7273,6 +7749,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -7283,6 +7760,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -7410,7 +7889,7 @@ into your web browser:
 ## kn
 
 <details>
-<summary>show<small> (all missing: 255, including not present: 145)</small></summary>
+<summary>show<small> (all missing: 270, including not present: 160)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -7434,8 +7913,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -7458,9 +7940,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -7492,6 +7978,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -7504,6 +7994,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -7541,6 +8032,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -7550,6 +8042,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -7674,16 +8168,31 @@ into your web browser:
 ## ko
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
  * json : Log out : not present
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -7691,11 +8200,18 @@ into your web browser:
 ## lt
 
 <details>
-<summary>show<small> (all missing: 25, including not present: 25)</small></summary>
+<summary>show<small> (all missing: 40, including not present: 40)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -7707,15 +8223,23 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
 
@@ -7725,7 +8249,7 @@ into your web browser:
 ## lv
 
 <details>
-<summary>show<small> (all missing: 291, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 306, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -7752,10 +8276,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -7779,11 +8306,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -7828,6 +8359,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -7841,6 +8376,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -7885,6 +8421,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -7895,6 +8432,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -8025,18 +8564,14 @@ into your web browser:
 
 ## mk
 
-<details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
 
- * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+All lines are translated 😊
 
-[ [to top](#todo-list) ]
-</details>
 
 ## mn
 
 <details>
-<summary>show<small> (all missing: 316, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 331, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -8063,10 +8598,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -8090,11 +8628,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -8139,6 +8681,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -8152,6 +8698,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -8196,6 +8743,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -8206,6 +8754,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -8362,7 +8912,7 @@ into your web browser:
 ## mr
 
 <details>
-<summary>show<small> (all missing: 256, including not present: 146)</small></summary>
+<summary>show<small> (all missing: 271, including not present: 161)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8386,9 +8936,12 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -8411,9 +8964,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -8445,6 +9002,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -8457,6 +9018,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -8494,6 +9056,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -8503,6 +9066,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -8627,7 +9192,7 @@ into your web browser:
 ## ms
 
 <details>
-<summary>show<small> (all missing: 166, including not present: 147)</small></summary>
+<summary>show<small> (all missing: 181, including not present: 162)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8651,8 +9216,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -8675,9 +9243,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -8709,6 +9281,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -8721,6 +9297,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -8758,6 +9335,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -8768,6 +9346,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -8802,7 +9382,7 @@ into your web browser:
 ## nb
 
 <details>
-<summary>show<small> (all missing: 246, including not present: 139)</small></summary>
+<summary>show<small> (all missing: 261, including not present: 154)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -8826,8 +9406,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -8850,9 +9433,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -8882,6 +9469,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -8894,6 +9485,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -8930,6 +9522,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -8938,6 +9531,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -9057,7 +9652,7 @@ into your web browser:
 ## ne
 
 <details>
-<summary>show<small> (all missing: 154, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 169, including not present: 150)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9081,8 +9676,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -9104,9 +9702,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -9136,6 +9738,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -9147,6 +9753,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -9183,6 +9790,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -9191,6 +9799,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -9220,16 +9830,31 @@ into your web browser:
 ## nl
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
  * json : Log out : not present
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -9237,7 +9862,7 @@ into your web browser:
 ## nn
 
 <details>
-<summary>show<small> (all missing: 248, including not present: 139)</small></summary>
+<summary>show<small> (all missing: 263, including not present: 154)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9261,8 +9886,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -9285,9 +9913,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -9317,6 +9949,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -9329,6 +9965,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -9365,6 +10002,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -9373,6 +10011,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -9494,7 +10134,7 @@ into your web browser:
 ## oc
 
 <details>
-<summary>show<small> (all missing: 198, including not present: 24)</small></summary>
+<summary>show<small> (all missing: 213, including not present: 39)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -9521,10 +10161,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -9548,11 +10191,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -9597,6 +10244,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -9610,6 +10261,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -9654,6 +10306,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -9664,6 +10317,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing.
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -9702,16 +10357,31 @@ into your web browser:
 ## pl
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
  * json : Log out : not present
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -9719,7 +10389,7 @@ into your web browser:
 ## ps
 
 <details>
-<summary>show<small> (all missing: 256, including not present: 146)</small></summary>
+<summary>show<small> (all missing: 271, including not present: 161)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -9743,8 +10413,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -9767,9 +10440,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -9801,6 +10478,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -9813,6 +10494,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -9850,6 +10532,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -9860,6 +10543,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -9984,11 +10669,18 @@ into your web browser:
 ## pt
 
 <details>
-<summary>show<small> (all missing: 28, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 43, including not present: 41)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -10000,15 +10692,23 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
  * auth : password : not present
@@ -10021,12 +10721,19 @@ into your web browser:
 ## pt_BR
 
 <details>
-<summary>show<small> (all missing: 29, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 44, including not present: 41)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
  * json : Editor
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -10038,15 +10745,23 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
  * auth : password : not present
@@ -10059,7 +10774,7 @@ into your web browser:
 ## ro
 
 <details>
-<summary>show<small> (all missing: 244, including not present: 136)</small></summary>
+<summary>show<small> (all missing: 259, including not present: 151)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10083,8 +10798,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -10107,9 +10825,13 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -10139,6 +10861,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -10150,6 +10876,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -10186,6 +10913,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -10194,6 +10922,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -10318,7 +11048,7 @@ All lines are translated 😊
 ## sc
 
 <details>
-<summary>show<small> (all missing: 326, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 341, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10345,10 +11075,13 @@ All lines are translated 😊
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -10372,11 +11105,15 @@ All lines are translated 😊
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -10421,6 +11158,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -10434,6 +11175,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -10478,6 +11220,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -10488,6 +11231,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -10654,7 +11399,7 @@ into your web browser:
 ## si
 
 <details>
-<summary>show<small> (all missing: 290, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 305, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -10681,10 +11426,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -10708,11 +11456,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -10757,6 +11509,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -10770,6 +11526,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -10814,6 +11571,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -10824,6 +11582,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -10954,7 +11714,7 @@ into your web browser:
 ## sk
 
 <details>
-<summary>show<small> (all missing: 243, including not present: 137)</small></summary>
+<summary>show<small> (all missing: 258, including not present: 152)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -10978,8 +11738,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -11002,8 +11765,12 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -11033,6 +11800,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -11044,6 +11815,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -11080,6 +11852,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -11088,6 +11861,8 @@ into your web browser:
  * json : This device : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -11206,11 +11981,18 @@ into your web browser:
 ## sl
 
 <details>
-<summary>show<small> (all missing: 24, including not present: 24)</small></summary>
+<summary>show<small> (all missing: 39, including not present: 39)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -11222,14 +12004,22 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
 
@@ -11239,7 +12029,7 @@ into your web browser:
 ## sq
 
 <details>
-<summary>show<small> (all missing: 200, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 215, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11266,10 +12056,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -11293,11 +12086,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -11342,6 +12139,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -11355,6 +12156,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -11399,6 +12201,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -11409,6 +12212,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -11449,15 +12254,22 @@ into your web browser:
 ## sr_Cyrl
 
 <details>
-<summary>show<small> (all missing: 39, including not present: 37)</small></summary>
+<summary>show<small> (all missing: 54, including not present: 52)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -11472,9 +12284,14 @@ into your web browser:
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : of : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : results : not present
  * json : Showing : not present
@@ -11482,8 +12299,11 @@ into your web browser:
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : to : not present
  * json : You have been invited to join the :team team! : not present
@@ -11497,15 +12317,22 @@ into your web browser:
 ## sr_Latn
 
 <details>
-<summary>show<small> (all missing: 39, including not present: 37)</small></summary>
+<summary>show<small> (all missing: 54, including not present: 52)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Administrator users can perform any action. : not present
  * json : Administrator : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
  * json : Editor users have the ability to read, create, and update. : not present
  * json : Editor : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -11520,9 +12347,14 @@ into your web browser:
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : of : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : results : not present
  * json : Showing : not present
@@ -11530,8 +12362,11 @@ into your web browser:
  * json : Terms of Service : not present
  * json : Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : to : not present
  * json : You have been invited to join the :team team! : not present
@@ -11545,7 +12380,7 @@ into your web browser:
 ## sr_Latn_ME
 
 <details>
-<summary>show<small> (all missing: 286, including not present: 134)</small></summary>
+<summary>show<small> (all missing: 301, including not present: 149)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -11572,10 +12407,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -11599,11 +12437,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -11648,6 +12490,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -11661,6 +12507,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -11705,6 +12552,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -11715,6 +12563,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -11841,7 +12691,7 @@ into your web browser:
 ## sv
 
 <details>
-<summary>show<small> (all missing: 206, including not present: 108)</small></summary>
+<summary>show<small> (all missing: 221, including not present: 123)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Add a new team member to your team, allowing them to collaborate with you. : not present
@@ -11860,6 +12710,9 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
  * json : Create API Token : not present
@@ -11874,7 +12727,11 @@ into your web browser:
  * json : Editor : not present
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -11899,6 +12756,10 @@ into your web browser:
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -11909,6 +12770,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -11937,6 +12799,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -11944,6 +12807,8 @@ into your web browser:
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : Token Name : not present
  * json : Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application. : not present
@@ -12056,7 +12921,7 @@ into your web browser:
 ## sw
 
 <details>
-<summary>show<small> (all missing: 291, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 306, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12083,10 +12948,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -12110,11 +12978,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -12159,6 +13031,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -12172,6 +13048,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -12216,6 +13093,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -12226,6 +13104,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -12357,7 +13237,7 @@ into your web browser:
 ## tg
 
 <details>
-<summary>show<small> (all missing: 313, including not present: 135)</small></summary>
+<summary>show<small> (all missing: 328, including not present: 150)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12384,10 +13264,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close : not present
  * json : Code : not present
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -12411,11 +13294,15 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -12460,6 +13347,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation : not present
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -12473,6 +13364,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -12517,6 +13409,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -12527,6 +13420,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -12680,7 +13575,7 @@ into your web browser:
 ## th
 
 <details>
-<summary>show<small> (all missing: 261, including not present: 145)</small></summary>
+<summary>show<small> (all missing: 276, including not present: 160)</small></summary>
 
  * json : A new verification link has been sent to the email address you provided during registration.
  * json : Accept Invitation : not present
@@ -12705,8 +13600,11 @@ into your web browser:
  * json : Are you sure you would like to remove this person from the team? : not present
  * json : Browser Sessions : not present
  * json : Cancel : not present
+ * json : Card : not present
  * json : Close : not present
  * json : Code : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm : not present
  * json : Create a new team to collaborate with others on projects. : not present
  * json : Create Account : not present
@@ -12729,10 +13627,14 @@ into your web browser:
  * json : Email
  * json : Enable : not present
  * json : Ensure your account is using a long, random password to stay secure. : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue. : not present
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go to page :page : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
@@ -12766,6 +13668,10 @@ into your web browser: : not present
  * json : Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain. : not present
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain. : not present
  * json : Pagination Navigation : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team. : not present
  * json : Permanently delete your account. : not present
@@ -12778,6 +13684,7 @@ into your web browser: : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information : not present
  * json : Profile : not present
@@ -12816,6 +13723,7 @@ into your web browser: : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character. : not present
  * json : The :attribute must be at least :length characters and contain at least one uppercase character. : not present
  * json : The :attribute must be at least :length characters. : not present
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password. : not present
  * json : The provided password was incorrect. : not present
  * json : The provided two factor authentication code was invalid. : not present
@@ -12826,6 +13734,8 @@ into your web browser: : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to : not present
@@ -12951,7 +13861,7 @@ into your web browser: : not present
 ## tk
 
 <details>
-<summary>show<small> (all missing: 326, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 341, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -12978,10 +13888,13 @@ into your web browser: : not present
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -13005,11 +13918,15 @@ into your web browser: : not present
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -13054,6 +13971,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -13067,6 +13988,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -13111,6 +14033,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -13121,6 +14044,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -13287,7 +14212,7 @@ into your web browser:
 ## tl
 
 <details>
-<summary>show<small> (all missing: 319, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 334, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13314,10 +14239,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -13341,11 +14269,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -13390,6 +14322,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -13403,6 +14339,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -13447,6 +14384,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -13457,6 +14395,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -13616,11 +14556,18 @@ into your web browser:
 ## tr
 
 <details>
-<summary>show<small> (all missing: 114, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 129, including not present: 41)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Great! You have accepted the invitation to join the :team team. : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
@@ -13633,9 +14580,14 @@ into your web browser:
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
  * json : of
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Select A New Photo
  * json : Show Recovery Codes
@@ -13643,8 +14595,11 @@ into your web browser:
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
  * json : These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation. : not present
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user has already been invited to the team. : not present
  * json : You have been invited to join the :team team! : not present
  * auth : password : not present
@@ -13739,7 +14694,7 @@ into your web browser:
 ## ug
 
 <details>
-<summary>show<small> (all missing: 311, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 326, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -13766,10 +14721,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -13793,11 +14751,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -13842,6 +14804,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -13855,6 +14821,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -13899,6 +14866,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -13909,6 +14877,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -14060,11 +15030,18 @@ into your web browser:
 ## uk
 
 <details>
-<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
+<summary>show<small> (all missing: 31, including not present: 31)</small></summary>
 
  * json : Accept Invitation : not present
  * json : Cancel : not present
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Create Account : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : I agree to the :terms_of_service and :privacy_policy : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
@@ -14072,12 +15049,20 @@ into your web browser:
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Team Invitation : not present
  * json : Terms of Service : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -14085,7 +15070,7 @@ into your web browser:
 ## ur
 
 <details>
-<summary>show<small> (all missing: 305, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 320, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14112,9 +15097,12 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -14137,10 +15125,14 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -14180,6 +15172,10 @@ into your web browser:
  * json : Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.
  * json : Page Expired
  * json : Pagination Navigation
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -14193,6 +15189,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -14232,6 +15229,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -14242,6 +15240,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -14400,7 +15400,7 @@ into your web browser:
 ## uz_Cyrl
 
 <details>
-<summary>show<small> (all missing: 288, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14427,10 +15427,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -14454,11 +15457,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -14503,6 +15510,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -14516,6 +15527,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -14560,6 +15572,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -14570,6 +15583,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -14698,7 +15713,7 @@ into your web browser:
 ## uz_Latn
 
 <details>
-<summary>show<small> (all missing: 288, including not present: 26)</small></summary>
+<summary>show<small> (all missing: 303, including not present: 41)</small></summary>
 
  * json : A fresh verification link has been sent to your email address.
  * json : A new verification link has been sent to the email address you provided during registration.
@@ -14725,10 +15740,13 @@ into your web browser:
  * json : Before proceeding, please check your email for a verification link.
  * json : Browser Sessions
  * json : Cancel : not present
+ * json : Card : not present
  * json : click here to request another
  * json : Close
  * json : Code
  * json : Confirm Password
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
  * json : Confirm
  * json : Create a new team to collaborate with others on projects.
  * json : Create Account : not present
@@ -14752,11 +15770,15 @@ into your web browser:
  * json : Email
  * json : Enable
  * json : Ensure your account is using a long, random password to stay secure.
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
  * json : For your security, please confirm your password to continue.
  * json : Forbidden
  * json : Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.
  * json : Forgot Your Password?
  * json : Forgot your password?
+ * json : Full name : not present
+ * json : Go back : not present
  * json : Go Home
  * json : Go to page :page
  * json : Great! You have accepted the invitation to join the :team team. : not present
@@ -14801,6 +15823,10 @@ into your web browser:
  * json : Page Expired
  * json : Pagination Navigation
  * json : Password
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Pending Team Invitations : not present
  * json : Permanently delete this team.
  * json : Permanently delete your account.
@@ -14814,6 +15840,7 @@ into your web browser:
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
  * json : Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
  * json : Please provide the email address of the person you would like to add to this team. : not present
+ * json : Please provide your name. : not present
  * json : Privacy Policy : not present
  * json : Profile Information
  * json : Profile
@@ -14858,6 +15885,7 @@ into your web browser:
  * json : The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
  * json : The :attribute must be at least :length characters and contain at least one uppercase character.
  * json : The :attribute must be at least :length characters.
+ * json : The payment was successful. : not present
  * json : The provided password does not match your current password.
  * json : The provided password was incorrect.
  * json : The provided two factor authentication code was invalid.
@@ -14868,6 +15896,8 @@ into your web browser:
  * json : This is a secure area of the application. Please confirm your password before continuing. : not present
  * json : This password does not match our records.
  * json : This password reset link will expire in :count minutes.
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
  * json : This user already belongs to the team.
  * json : This user has already been invited to the team. : not present
  * json : to
@@ -14996,16 +16026,31 @@ into your web browser:
 ## vi
 
 <details>
-<summary>show<small> (all missing: 8, including not present: 8)</small></summary>
+<summary>show<small> (all missing: 23, including not present: 23)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
  * json : If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password. : not present
  * json : Log in : not present
  * json : Log out : not present
  * json : Log Out : not present
  * json : Log Out Other Browser Sessions : not present
  * json : Manage and log out your active sessions on other browsers and devices. : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
  * json : Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices. : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -15013,9 +16058,24 @@ into your web browser:
 ## zh_CN
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -15023,9 +16083,24 @@ into your web browser:
 ## zh_HK
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
@@ -15033,9 +16108,24 @@ into your web browser:
 ## zh_TW
 
 <details>
-<summary>show<small> (all missing: 1, including not present: 1)</small></summary>
+<summary>show<small> (all missing: 16, including not present: 16)</small></summary>
 
+ * json : Card : not present
+ * json : Confirm Payment : not present
+ * json : Confirm your :amount payment : not present
+ * json : Extra confirmation is needed to process your payment. Please confirm your payment by filling out your payment details below. : not present
+ * json : Extra confirmation is needed to process your payment. Please continue to the payment page by clicking on the button below. : not present
+ * json : Full name : not present
+ * json : Go back : not present
+ * json : Pay :amount : not present
+ * json : Payment Cancelled : not present
+ * json : Payment Confirmation : not present
+ * json : Payment Successful : not present
+ * json : Please provide your name. : not present
  * json : The :attribute must be at least :length characters and contain at least one special character and one number. : not present
+ * json : The payment was successful. : not present
+ * json : This payment was already successfully confirmed. : not present
+ * json : This payment was cancelled. : not present
 
 [ [to top](#todo-list) ]
 </details>
