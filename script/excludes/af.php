@@ -11,4 +11,5 @@ return [
     |
     */
 
+    'API Token',
 ];

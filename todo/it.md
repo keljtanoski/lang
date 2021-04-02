@@ -1,6 +1,6 @@
 # it
 
-###### All missed: 11
+###### All missed: 16
 
 
 ### validation-inline
@@ -31,9 +31,14 @@
 
 ### json
 
-###### Missing: 1
+###### Missing: 6
 
 * Download
+* Iran, Islamic Republic Of : Iran
+* Lao People's Democratic Republic : Laos
+* Micronesia, Federated States Of : Micronesia
+* Peru
+* Sint Maarten (Dutch part) : Sint Maarten
 
 
 [ [go back](../TODO.md) | [to top](#) ]

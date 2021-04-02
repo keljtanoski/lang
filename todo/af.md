@@ -1,6 +1,6 @@
-# uk
+# af
 
-###### All missed: 439
+###### All missed: 437
 
 
 ### validation-inline
@@ -18,9 +18,10 @@
 
 ### validation
 
-###### Missing: 5
+###### Missing: 6
 
 * attached : This :attribute is already attached.
+* multiple_of : The :attribute must be a multiple of :value
 * prohibited : The :attribute field is prohibited.
 * prohibited_if : The :attribute field is prohibited when :other is :value.
 * prohibited_unless : The :attribute field is prohibited unless :other is in :values.
@@ -31,7 +32,7 @@
 
 ### json
 
-###### Missing: 429
+###### Missing: 426
 
 * 30 Days
 * 60 Days
@@ -39,7 +40,6 @@
 * :amount Total
 * :resource Details
 * :resource Details: :title
-* Accept Invitation
 * Action
 * Action Happened At : Happened At
 * Action Initiated By : Initiated By
@@ -61,6 +61,8 @@
 * Another user has updated this resource since this page was loaded. Please refresh the page and try again.
 * Antarctica
 * Antigua And Barbuda : Antigua and Barbuda
+* API Token
+* API Tokens
 * April
 * Are you sure you want to delete the selected resources?
 * Are you sure you want to delete this file?
@@ -136,7 +138,6 @@
 * could not be found.
 * Create & Add Another
 * Create :resource
-* Create Account
 * Croatia
 * Cuba
 * Curaçao
@@ -208,7 +209,6 @@
 * Honduras
 * Hong Kong
 * Hungary
-* I agree to the :terms_of_service and :privacy_policy
 * Iceland
 * ID
 * If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
@@ -325,14 +325,13 @@
 * Philippines
 * Pitcairn : Pitcairn Islands
 * Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.
-* Please provide the email address of the person you would like to add to this team.
+* Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
 * Please provide your name.
 * Poland
 * Portugal
 * Press / to search
 * Preview
 * Previous
-* Privacy Policy
 * Puerto Rico
 * Qatar
 * Quarter To Date
@@ -397,7 +396,6 @@
 * Tajikistan
 * Tanzania
 * Team Invitation
-* Terms of Service
 * Thailand
 * The :attribute must be at least :length characters and contain at least one special character and one number.
 * The :resource was created!

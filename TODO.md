@@ -3,7 +3,12 @@
 <table width="100%">
 <tr><td align="center" width="8%">
 
-[ar&nbsp;❗](todo/ar.md)
+[af&nbsp;❗](todo/af.md)
+
+</td>
+<td align="center" width="8%">
+
+[ar&nbsp;✔](todo/ar.md)
 
 </td>
 <td align="center" width="8%">
@@ -56,20 +61,20 @@
 [de&nbsp;❗](todo/de.md)
 
 </td>
-<td align="center" width="8%">
+</tr>
+<tr><td align="center" width="8%">
 
 [de_CH&nbsp;❗](todo/de-ch.md)
 
 </td>
-</tr>
-<tr><td align="center" width="8%">
+<td align="center" width="8%">
 
 [el&nbsp;❗](todo/el.md)
 
 </td>
 <td align="center" width="8%">
 
-[es&nbsp;❗](todo/es.md)
+[es&nbsp;✔](todo/es.md)
 
 </td>
 <td align="center" width="8%">
@@ -117,13 +122,13 @@
 [hi&nbsp;❗](todo/hi.md)
 
 </td>
-<td align="center" width="8%">
+</tr>
+<tr><td align="center" width="8%">
 
 [hr&nbsp;❗](todo/hr.md)
 
 </td>
-</tr>
-<tr><td align="center" width="8%">
+<td align="center" width="8%">
 
 [hu&nbsp;❗](todo/hu.md)
 
@@ -178,13 +183,13 @@
 [ko&nbsp;❗](todo/ko.md)
 
 </td>
-<td align="center" width="8%">
+</tr>
+<tr><td align="center" width="8%">
 
 [lt&nbsp;❗](todo/lt.md)
 
 </td>
-</tr>
-<tr><td align="center" width="8%">
+<td align="center" width="8%">
 
 [lv&nbsp;❗](todo/lv.md)
 
@@ -239,13 +244,13 @@
 [pl&nbsp;❗](todo/pl.md)
 
 </td>
-<td align="center" width="8%">
+</tr>
+<tr><td align="center" width="8%">
 
 [ps&nbsp;❗](todo/ps.md)
 
 </td>
-</tr>
-<tr><td align="center" width="8%">
+<td align="center" width="8%">
 
 [pt&nbsp;❗](todo/pt.md)
 
@@ -300,13 +305,13 @@
 [sr_Latn&nbsp;❗](todo/sr-latn.md)
 
 </td>
-<td align="center" width="8%">
+</tr>
+<tr><td align="center" width="8%">
 
 [sr_Latn_ME&nbsp;❗](todo/sr-latn-me.md)
 
 </td>
-</tr>
-<tr><td align="center" width="8%">
+<td align="center" width="8%">
 
 [sv&nbsp;❗](todo/sv.md)
 
@@ -361,13 +366,13 @@
 [uz_Cyrl&nbsp;❗](todo/uz-cyrl.md)
 
 </td>
-<td align="center" width="8%">
+</tr>
+<tr><td align="center" width="8%">
 
 [uz_Latn&nbsp;❗](todo/uz-latn.md)
 
 </td>
-</tr>
-<tr><td align="center" width="8%">
+<td align="center" width="8%">
 
 [vi&nbsp;❗](todo/vi.md)
 
@@ -385,10 +390,6 @@
 <td align="center" width="8%">
 
 [zh_TW&nbsp;❗](todo/zh-tw.md)
-
-</td>
-<td align="center" width="8%">
-
 
 </td>
 <td align="center" width="8%">
