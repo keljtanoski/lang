@@ -9,12 +9,7 @@ use Helldar\Support\Facades\Helpers\Str;
 use Helldar\Support\Facades\Tools\Sorter;
 use LaravelLang\Lang\Concerns\Excludes;
 use LaravelLang\Lang\Concerns\Template;
-use LaravelLang\Lang\Contracts\Filesystem;
-use LaravelLang\Lang\Contracts\Stringable;
 use LaravelLang\Lang\Processors\Processor as BaseProcessor;
-use LaravelLang\Lang\Services\Filesystem\Base;
-use LaravelLang\Lang\Services\Filesystem\Json as JsonFilesystem;
-use LaravelLang\Lang\Services\Filesystem\Php as PhpFilesystem;
 
 abstract class Processor extends BaseProcessor
 {
@@ -24,9 +19,6 @@ abstract class Processor extends BaseProcessor
     protected string $extension = '.md';
 
     protected string $target_path = 'statuses';
-
-    /** @var \LaravelLang\Lang\Contracts\Filesystem[]|array */
-    protected array $filesystems = [];
 
     protected array $source_files = [];
 
@@ -52,7 +44,7 @@ abstract class Processor extends BaseProcessor
         }
     }
 
-    protected function process(string $target_path, string $filename, string $locale): void
+    protected function process(string $target_path, string $filename, string $locale = null): void
     {
         $corrected = $this->getCorrectedFilename($filename, $locale);
 
@@ -68,11 +60,6 @@ abstract class Processor extends BaseProcessor
         } else {
             $this->locales[$locale] = [];
         }
-    }
-
-    protected function save(string $path, Stringable $content): void
-    {
-        File::store($path, $content->toString());
     }
 
     protected function compare(array $source, array $target, string $locale, bool $is_validation): array
@@ -101,32 +88,6 @@ abstract class Processor extends BaseProcessor
         $items = array_map(static fn (array $items) => count($items), $this->locales[$locale]);
 
         return array_sum($items);
-    }
-
-    protected function load(string $path): array
-    {
-        return $this->getFilesystem($path)->load($path);
-    }
-
-    protected function loadFilesystem(Filesystem|Base|string $filesystem): Filesystem
-    {
-        return $filesystem::make()->application($this->app);
-    }
-
-    protected function getFilesystem(string $filename): Filesystem
-    {
-        $class = $this->getFilesystemClass($filename);
-
-        if ($this->filesystems[$class] ?? false) {
-            return $this->filesystems[$class];
-        }
-
-        return $this->filesystems[$class] = $this->loadFilesystem($class);
-    }
-
-    protected function getFilesystemClass(string $path): string
-    {
-        return $this->isJson($path) ? JsonFilesystem::class : PhpFilesystem::class;
     }
 
     protected function getLangPath(string $locale = null): string
@@ -183,11 +144,6 @@ abstract class Processor extends BaseProcessor
             : $this->app->path('src/' . $locale . '/' . $filename);
 
         return $this->load($path);
-    }
-
-    protected function isJson(string $filename): bool
-    {
-        return Str::endsWith($filename, '.json');
     }
 
     protected function ensureDirectory(): void

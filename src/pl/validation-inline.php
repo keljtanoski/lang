@@ -1,5 +1,16 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| Validation Language Lines
+|--------------------------------------------------------------------------
+|
+| The following language lines contain the default error messages used by
+| the validator class. Some of these rules have multiple versions such
+| as the size rules. Feel free to tweak each of these messages here.
+|
+*/
+
 return [
     'accepted'             => 'Pole musi zostać zaakceptowane.',
     'active_url'           => 'Pole jest nieprawidłowym adresem URL.',
@@ -79,7 +90,7 @@ return [
         'numeric' => 'Pole musi być nie mniejsze od :min.',
         'string'  => 'Pole musi mieć przynajmniej :min znaków.',
     ],
-    'multiple_of'          => 'Pole :attribute musi być wielokrotnością wartości :value',
+    'multiple_of'          => 'Pole musi być wielokrotnością wartości :value',
     'not_in'               => 'Zaznaczona wartość jest nieprawidłowa.',
     'not_regex'            => 'Format pola jest nieprawidłowy.',
     'numeric'              => 'Pole musi być liczbą.',

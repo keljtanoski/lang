@@ -1,5 +1,16 @@
 <?php
 
+/*
+|--------------------------------------------------------------------------
+| Validation Language Lines
+|--------------------------------------------------------------------------
+|
+| The following language lines contain the default error messages used by
+| the validator class. Some of these rules have multiple versions such
+| as the size rules. Feel free to tweak each of these messages here.
+|
+*/
+
 return [
     'accepted'             => 'Aqueste camp deu èsser acceptat.',
     'active_url'           => 'Aquò es pas una URL valida.',
@@ -15,7 +26,7 @@ return [
     'between'              => [
         'array'   => 'Lo tablèu deu aver entre :min e :max elements.',
         'file'    => 'La talha del fichièr deu èsser entre :min e :max kiloctets.',
-        'numeric' => 'La valor de :attribute deu èsser entre :min e :max.',
+        'numeric' => 'La valor deu èsser entre :min e :max.',
         'string'  => 'Lo tèxt deu conténer entre :min e :max caractèrs.',
     ],
     'boolean'              => 'Aqueste camp deu èsser verai o fals.',
