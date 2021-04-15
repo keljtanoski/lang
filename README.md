@@ -12,11 +12,12 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 ## News
 
-* in version 6.1, we propose a new file by language: `validation-inline.php` ( see #1268 )
-* in version 7, we propose new directory names to follow ISO-15897 ( see #1269 )
-* in version 8, we propose new directory names to follow Php Intl ( see #1453 )
+* in version 6.1, we propose a new file by language: `validation-inline.php` ( see [#1268](https://github.com/Laravel-Lang/lang/issues/1268) )
+* in version 7, we propose new directory names to follow ISO-15897 ( see [#1269](https://github.com/Laravel-Lang/lang/issues/1269) )
+* in version 8, we propose new directory names to follow Php Intl ( see [#1453](https://github.com/Laravel-Lang/lang/pull/1453) )
+* in version 9, we propose new structure of files ( see [#1606](https://github.com/Laravel-Lang/lang/discussions/1606), [#1607](https://github.com/Laravel-Lang/lang/pull/1607) )
 
-## Projects based on this package
+## Translation managers
 
 * [LaravelLang](https://github.com/ARCANEDEV/LaravelLang) by [*@arcanedev-maroc*](https://github.com/ARCANEDEV) - Translations manager and checker for Laravel.
 * [Laravel-lang](https://github.com/overtrue/laravel-lang) by [*@overtrue*](https://github.com/overtrue) - Command to add languages in your project.
