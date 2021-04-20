@@ -2,10 +2,12 @@
 
 # Completion status
 
+> Translation of localizations is completed by **46%** (28.9K / 62.8K).
+
 <table width="100%">
 <tr><td align="center" width="13%">
 
-[af&nbsp;❗](statuses/af.md)
+[af&nbsp;✔](statuses/af.md)
 
 </td>
 <td align="center" width="13%">
@@ -143,7 +145,7 @@
 </td>
 <td align="center" width="13%">
 
-[id&nbsp;❗](statuses/id.md)
+[id&nbsp;✔](statuses/id.md)
 
 </td>
 <td align="center" width="13%">
@@ -184,7 +186,7 @@
 </td>
 <td align="center" width="13%">
 
-[ko&nbsp;❗](statuses/ko.md)
+[ko&nbsp;✔](statuses/ko.md)
 
 </td>
 <td align="center" width="13%">
@@ -379,22 +381,22 @@
 </td>
 <td align="center" width="13%">
 
-[vi&nbsp;❗](statuses/vi.md)
+[vi&nbsp;✔](statuses/vi.md)
 
 </td>
 <td align="center" width="13%">
 
-[zh_CN&nbsp;❗](statuses/zh-cn.md)
+[zh_CN&nbsp;✔](statuses/zh-cn.md)
 
 </td>
 <td align="center" width="13%">
 
-[zh_HK&nbsp;❗](statuses/zh-hk.md)
+[zh_HK&nbsp;✔](statuses/zh-hk.md)
 
 </td>
 <td align="center" width="13%">
 
-[zh_TW&nbsp;❗](statuses/zh-tw.md)
+[zh_TW&nbsp;✔](statuses/zh-tw.md)
 
 </td>
 <td align="center" width="13%">
