@@ -7,6 +7,56 @@ All notable changes to this project will be documented in this file, since v7.0.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+ * feature: [es] #1760 nova
+
+## [10.0.1] - 2021-05-24
+
+### Changed
+
+ * feature: [ar] #1757 jetstream spark-paddle spark-stripe
+ * feature: [es] #1753 jetstream spark-paddle spark-stripe
+ * feature: [fi] #1758 exclude auth.php cashier fortify jetstream nova spark-paddle spark-stripe validation-inline.php validation.php json file
+ * feature: [fr] cashier jetstream nova spark-paddle spark-stripe
+ * feature: [ru] #1751 cashier jetstream spark-paddle spark-stripe
+ * feature: [vi] #1756 cashier jetstream spark-paddle
+ * feature: [zh_TW] #1754 validation-inline.php json file
+
+### Todo script
+
+ * fix: #1751
+ * feature: #1752 Added dock block to structure splitter file
+
+## [10.0.0] - 2021-05-20
+
+### Changed
+
+ * feature: [de] #1750 json file
+ * feature: [nb] #1747 auth.php pagination.php passwords.php validation-inline.php validation.php json file
+
+### Reference
+
+ * feature: #1748 Split translation keys into Laravel packages
+
+## [9.1.2] - 2021-05-14
+
+### Changed
+
+ * feature: [bn] #1739 #1741 auth.php json file
+ * feature: [de] #1737 json file
+ * feature: [it] #1745 json file
+ * feature: [nb] #1743 #1744 json file
+ * feature: [nl] #1733 json file
+ * feature: [pt_BR] #1746 json file
+ * feature: [vi] #1749 json file
+
+### Todo Script
+
+ * feature: #1738 Added comparison of sub-elements of arrays
+
 ## [9.1.1] - 2021-05-02
 
 ### Changed
@@ -431,7 +481,10 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.0.1...master
+[10.0.1]: https://github.com/caouecs/Laravel-lang/compare/10.0.0...10.0.1
+[10.0.0]: https://github.com/caouecs/Laravel-lang/compare/9.1.2...10.0.0
+[9.1.2]: https://github.com/caouecs/Laravel-lang/compare/9.1.1...9.1.2
 [9.1.1]: https://github.com/caouecs/Laravel-lang/compare/9.1.0...9.1.1
 [9.1.0]: https://github.com/caouecs/Laravel-lang/compare/9.0.1...9.1.0
 [9.0.1]: https://github.com/caouecs/Laravel-lang/compare/9.0.0...9.0.1
