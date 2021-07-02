@@ -2,7 +2,7 @@
 
 # sk
 
-##### All missed: 285
+##### All missed: 210
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/auth.php)
@@ -25,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/validation-inline.php)
 
-##### Missing: 32
+##### Missing: 33
 
 <table >
 <tr><td align="left" >
@@ -54,6 +54,13 @@ between.string
 </td>
 <td align="left" >
 This string must be between :min and :max characters.
+</td>
+</tr>
+<tr><td align="left" >
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
@@ -258,48 +265,16 @@ The string must be :size characters.
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
-
-##### Missing: 6
-
-<table >
-<tr><td align="left" >
-Nevermind
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/packages/cashier.json)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/validation.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Jane Doe
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -308,426 +283,9 @@ Jane Doe
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/packages/jetstream.json)
+### [sk](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/sk.json)
 
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-Editor
-</td>
-</tr>
-<tr><td align="left" >
-You may accept this invitation by clicking the button below:
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/packages/nova.json)
-
-##### Missing: 63
-
-<table >
-<tr><td align="left" >
-Angola
-</td>
-</tr>
-<tr><td align="left" >
-Anguilla
-</td>
-</tr>
-<tr><td align="left" >
-Aruba
-</td>
-</tr>
-<tr><td align="left" >
-August
-</td>
-</tr>
-<tr><td align="left" >
-Barbados
-</td>
-</tr>
-<tr><td align="left" >
-Belize
-</td>
-</tr>
-<tr><td align="left" >
-Benin
-</td>
-</tr>
-<tr><td align="left" >
-Botswana
-</td>
-</tr>
-<tr><td align="left" >
-Burkina Faso
-</td>
-</tr>
-<tr><td align="left" >
-Burundi
-</td>
-</tr>
-<tr><td align="left" >
-Cyprus
-</td>
-</tr>
-<tr><td align="left" >
-December
-</td>
-</tr>
-<tr><td align="left" >
-Egypt
-</td>
-</tr>
-<tr><td align="left" >
-Eritrea
-</td>
-</tr>
-<tr><td align="left" >
-Gambia
-</td>
-</tr>
-<tr><td align="left" >
-Ghana
-</td>
-</tr>
-<tr><td align="left" >
-Grenada
-</td>
-</tr>
-<tr><td align="left" >
-Guadeloupe
-</td>
-</tr>
-<tr><td align="left" >
-Guam
-</td>
-</tr>
-<tr><td align="left" >
-Guatemala
-</td>
-</tr>
-<tr><td align="left" >
-Guernsey
-</td>
-</tr>
-<tr><td align="left" >
-Guinea
-</td>
-</tr>
-<tr><td align="left" >
-Guinea-Bissau
-</td>
-</tr>
-<tr><td align="left" >
-Guyana
-</td>
-</tr>
-<tr><td align="left" >
-Haiti
-</td>
-</tr>
-<tr><td align="left" >
-Honduras
-</td>
-</tr>
-<tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
-India
-</td>
-</tr>
-<tr><td align="left" >
-Jersey
-</td>
-</tr>
-<tr><td align="left" >
-Kiribati
-</td>
-</tr>
-<tr><td align="left" >
-Lesotho
-</td>
-</tr>
-<tr><td align="left" >
-Macao
-</td>
-</tr>
-<tr><td align="left" >
-Malawi
-</td>
-</tr>
-<tr><td align="left" >
-Malta
-</td>
-</tr>
-<tr><td align="left" >
-Mayotte
-</td>
-</tr>
-<tr><td align="left" >
-Mexico
-</td>
-</tr>
-<tr><td align="left" >
-Montserrat
-</td>
-</tr>
-<tr><td align="left" >
-Nauru
-</td>
-</tr>
-<tr><td align="left" >
-Niger
-</td>
-</tr>
-<tr><td align="left" >
-Niue
-</td>
-</tr>
-<tr><td align="left" >
-November
-</td>
-</tr>
-<tr><td align="left" >
-Pakistan
-</td>
-</tr>
-<tr><td align="left" >
-Palau
-</td>
-</tr>
-<tr><td align="left" >
-Panama
-</td>
-</tr>
-<tr><td align="left" >
-Peru
-</td>
-</tr>
-<tr><td align="left" >
-Qatar
-</td>
-</tr>
-<tr><td align="left" >
-Rwanda
-</td>
-</tr>
-<tr><td align="left" >
-Samoa
-</td>
-</tr>
-<tr><td align="left" >
-Senegal
-</td>
-</tr>
-<tr><td align="left" >
-September
-</td>
-</tr>
-<tr><td align="left" >
-Sierra Leone
-</td>
-</tr>
-<tr><td align="left" >
-Sint Maarten (Dutch part)
-</td>
-</tr>
-<tr><td align="left" >
-Standalone Actions
-</td>
-</tr>
-<tr><td align="left" >
-Taiwan
-</td>
-</tr>
-<tr><td align="left" >
-Togo
-</td>
-</tr>
-<tr><td align="left" >
-Tokelau
-</td>
-</tr>
-<tr><td align="left" >
-Tuvalu
-</td>
-</tr>
-<tr><td align="left" >
-Uganda
-</td>
-</tr>
-<tr><td align="left" >
-Uzbekistan
-</td>
-</tr>
-<tr><td align="left" >
-Vanuatu
-</td>
-</tr>
-<tr><td align="left" >
-Venezuela
-</td>
-</tr>
-<tr><td align="left" >
-Zambia
-</td>
-</tr>
-<tr><td align="left" >
-Zimbabwe
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/packages/spark-paddle.json)
-
-##### Missing: 31
-
-<table >
-<tr><td align="left" >
-An unexpected error occurred and we have notified our support team. Please try again later.
-</td>
-</tr>
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-</td>
-</tr>
-<tr><td align="left" >
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
-Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-Nevermind, I'll keep my old plan
-</td>
-</tr>
-<tr><td align="left" >
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
-</td>
-</tr>
-<tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/sk/packages/spark-stripe.json)
-
-##### Missing: 149
+##### Missing: 175
 
 <table >
 <tr><td align="left" >
@@ -772,6 +330,10 @@ Apply Coupon
 </tr>
 <tr><td align="left" >
 Aruba
+</td>
+</tr>
+<tr><td align="left" >
+August
 </td>
 </tr>
 <tr><td align="left" >
@@ -855,7 +417,15 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+December
+</td>
+</tr>
+<tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+Editor
 </td>
 </tr>
 <tr><td align="left" >
@@ -943,7 +513,16 @@ I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
+ID
+</td>
+</tr>
+<tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -960,6 +539,10 @@ Isle of Man
 </tr>
 <tr><td align="left" >
 It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
+</td>
+</tr>
+<tr><td align="left" >
+Jane Doe
 </td>
 </tr>
 <tr><td align="left" >
@@ -1047,6 +630,10 @@ Niue
 </td>
 </tr>
 <tr><td align="left" >
+November
+</td>
+</tr>
+<tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 </td>
 </tr>
@@ -1064,6 +651,10 @@ Panama
 </tr>
 <tr><td align="left" >
 Payment Information
+</td>
+</tr>
+<tr><td align="left" >
+Payment Method
 </td>
 </tr>
 <tr><td align="left" >
@@ -1147,6 +738,10 @@ Senegal
 </td>
 </tr>
 <tr><td align="left" >
+September
+</td>
+</tr>
+<tr><td align="left" >
 Sierra Leone
 </td>
 </tr>
@@ -1156,6 +751,10 @@ Signed in as
 </tr>
 <tr><td align="left" >
 South Georgia and the South Sandwich Islands
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
@@ -1171,7 +770,15 @@ Subscription Information
 </td>
 </tr>
 <tr><td align="left" >
+Subscription Pending
+</td>
+</tr>
+<tr><td align="left" >
 Svalbard and Jan Mayen
+</td>
+</tr>
+<tr><td align="left" >
+Taiwan
 </td>
 </tr>
 <tr><td align="left" >
@@ -1188,6 +795,26 @@ Thanks for your continued support. We've attached a copy of your invoice for you
 </tr>
 <tr><td align="left" >
 Thanks,
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one letter.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one number.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one symbol.
+</td>
+</tr>
+<tr><td align="left" >
+The :attribute must contain at least one uppercase and one lowercase letter.
+</td>
+</tr>
+<tr><td align="left" >
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1211,7 +838,15 @@ The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
+There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1255,6 +890,10 @@ Update Payment Information
 </td>
 </tr>
 <tr><td align="left" >
+Update Payment Method
+</td>
+</tr>
+<tr><td align="left" >
 Uzbekistan
 </td>
 </tr>
@@ -1267,11 +906,23 @@ VAT Number
 </td>
 </tr>
 <tr><td align="left" >
+Venezuela
+</td>
+</tr>
+<tr><td align="left" >
 Venezuela, Bolivarian Republic of
 </td>
 </tr>
 <tr><td align="left" >
+View Receipt
+</td>
+</tr>
+<tr><td align="left" >
 Wallis and Futuna
+</td>
+</tr>
+<tr><td align="left" >
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1287,7 +938,15 @@ Yearly
 </td>
 </tr>
 <tr><td align="left" >
+You are already subscribed.
+</td>
+</tr>
+<tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
+</td>
+</tr>
+<tr><td align="left" >
+You may accept this invitation by clicking the button below:
 </td>
 </tr>
 <tr><td align="left" >
@@ -1300,6 +959,10 @@ Your :invoiceName invoice is now available!
 </tr>
 <tr><td align="left" >
 Your card was declined. Please contact your card issuer for more information.
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is :paypal.
 </td>
 </tr>
 <tr><td align="left" >

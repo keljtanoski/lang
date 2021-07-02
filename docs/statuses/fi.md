@@ -2,16 +2,19 @@
 
 # fi
 
-##### All missed: 13
+##### All missed: 3
 
 
-### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/cashier.json)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation-inline.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Jane Doe
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -20,21 +23,16 @@ Jane Doe
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/nova.json)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/validation.php)
 
-##### Missing: 3
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Nepal
+current_password
 </td>
-</tr>
-<tr><td align="left" >
-Reunion
-</td>
-</tr>
-<tr><td align="left" >
-Standalone Actions
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -43,45 +41,14 @@ Standalone Actions
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/packages/spark-stripe.json)
+### [fi](https://github.com/Laravel-Lang/lang/blob/master/locales/fi/fi.json)
 
-##### Missing: 9
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Bosnia and Herzegovina
-</td>
-</tr>
-<tr><td align="left" >
-Heard Island and McDonald Islands
-</td>
-</tr>
-<tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
-</td>
-</tr>
-<tr><td align="left" >
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-</td>
-</tr>
-<tr><td align="left" >
-Tonga
-</td>
-</tr>
-<tr><td align="left" >
-Total:
-</td>
-</tr>
-<tr><td align="left" >
-Turks and Caicos Islands
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 

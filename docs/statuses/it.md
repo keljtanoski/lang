@@ -2,31 +2,19 @@
 
 # it
 
-##### All missed: 20
+##### All missed: 3
 
 
-### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/cashier.json)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-Jane Doe
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/jetstream.json)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/it/validation-inline.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-You may accept this invitation by clicking the button below:
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -35,13 +23,16 @@ You may accept this invitation by clicking the button below:
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/nova.json)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/it/validation.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Standalone Actions
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -50,88 +41,14 @@ Standalone Actions
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/spark-paddle.json)
+### [it](https://github.com/Laravel-Lang/lang/blob/master/locales/it/it.json)
 
-##### Missing: 9
-
-<table >
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/it/packages/spark-stripe.json)
-
-##### Missing: 8
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
-</td>
-</tr>
-<tr><td align="left" >
-Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad and Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 

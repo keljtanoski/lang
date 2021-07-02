@@ -2,31 +2,19 @@
 
 # nl
 
-##### All missed: 46
+##### All missed: 49
 
 
-### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/packages/cashier.json)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-Jane Doe
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [jetstream](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/packages/jetstream.json)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation-inline.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-You may accept this invitation by clicking the button below:
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -35,13 +23,16 @@ You may accept this invitation by clicking the button below:
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/packages/nova.json)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Standalone Actions
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -50,64 +41,9 @@ Standalone Actions
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/packages/spark-paddle.json)
+### [nl](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/nl.json)
 
-##### Missing: 11
-
-<table >
-<tr><td align="left" >
-Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This subscription cannot be resumed. Please create a new subscription.
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
-</td>
-</tr>
-<tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/packages/spark-stripe.json)
-
-##### Missing: 32
+##### Missing: 47
 
 <table >
 <tr><td align="left" >
@@ -143,6 +79,19 @@ I accept the terms of service
 </td>
 </tr>
 <tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
+</td>
+</tr>
+<tr><td align="left" >
+Jane Doe
+</td>
+</tr>
+<tr><td align="left" >
+Korea
+</td>
+</tr>
+<tr><td align="left" >
 Korea, Republic of
 </td>
 </tr>
@@ -156,6 +105,10 @@ Micronesia, Federated States of
 </tr>
 <tr><td align="left" >
 Moldova, Republic of
+</td>
+</tr>
+<tr><td align="left" >
+Payment Method
 </td>
 </tr>
 <tr><td align="left" >
@@ -179,11 +132,23 @@ Saint Barthélemy
 </td>
 </tr>
 <tr><td align="left" >
+Saint Lucia
+</td>
+</tr>
+<tr><td align="left" >
 Saint Martin (French part)
 </td>
 </tr>
 <tr><td align="left" >
 South Georgia and the South Sandwich Islands
+</td>
+</tr>
+<tr><td align="left" >
+Standalone Actions
+</td>
+</tr>
+<tr><td align="left" >
+Subscription Pending
 </td>
 </tr>
 <tr><td align="left" >
@@ -207,6 +172,14 @@ The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
+There is no active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This subscription cannot be resumed. Please create a new subscription.
+</td>
+</tr>
+<tr><td align="left" >
 Total:
 </td>
 </tr>
@@ -223,7 +196,15 @@ United States Minor Outlying Islands
 </td>
 </tr>
 <tr><td align="left" >
+Update Payment Method
+</td>
+</tr>
+<tr><td align="left" >
 Venezuela, Bolivarian Republic of
+</td>
+</tr>
+<tr><td align="left" >
+View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -231,7 +212,23 @@ Wallis and Futuna
 </td>
 </tr>
 <tr><td align="left" >
+We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
+</td>
+</tr>
+<tr><td align="left" >
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+</td>
+</tr>
+<tr><td align="left" >
+You are already subscribed.
+</td>
+</tr>
+<tr><td align="left" >
+You may accept this invitation by clicking the button below:
+</td>
+</tr>
+<tr><td align="left" >
+Your current payment method is :paypal.
 </td>
 </tr>
 <tr><td align="left" >

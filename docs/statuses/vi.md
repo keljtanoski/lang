@@ -2,16 +2,19 @@
 
 # vi
 
-##### All missed: 13
+##### All missed: 5
 
 
-### [cashier](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/cashier.json)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/validation-inline.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Jane Doe
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -20,13 +23,16 @@ Jane Doe
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [nova](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/nova.json)
+### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/validation.php)
 
 ##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Standalone Actions
+current_password
+</td>
+<td align="left" >
+The password is incorrect.
 </td>
 </tr>
 
@@ -35,64 +41,22 @@ Standalone Actions
 
 [ [go back](../status.md) | [to top](#) ]
 
-### [spark-paddle](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/spark-paddle.json)
+### [vi](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/vi.json)
 
 ##### Missing: 3
 
 <table >
 <tr><td align="left" >
-Subscription Pending
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
-
-### [spark-stripe](https://github.com/Laravel-Lang/lang/blob/master/locales/vi/packages/spark-stripe.json)
-
-##### Missing: 8
-
-<table >
-<tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
-I accept the terms of service
+Jane Doe
 </td>
 </tr>
 <tr><td align="left" >
 Micronesia, Federated States of
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
-Svalbard and Jan Mayen
-</td>
-</tr>
-<tr><td align="left" >
-Trinidad and Tobago
-</td>
-</tr>
-<tr><td align="left" >
-Åland Islands
 </td>
 </tr>
 
