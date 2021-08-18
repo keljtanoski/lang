@@ -2,7 +2,7 @@
 
 # nl
 
-##### All missed: 49
+##### All missed: 50
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation-inline.php)
@@ -43,7 +43,7 @@ The password is incorrect.
 
 ### [nl](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/nl.json)
 
-##### Missing: 47
+##### Missing: 48
 
 <table >
 <tr><td align="left" >
@@ -161,6 +161,10 @@ Taiwan, Province of China
 </tr>
 <tr><td align="left" >
 Tanzania, United Republic of
+</td>
+</tr>
+<tr><td align="left" >
+The password is incorrect.
 </td>
 </tr>
 <tr><td align="left" >
