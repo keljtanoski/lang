@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Isian ini harus diterima.',
+    'accepted_if'          => 'Isian ini harus diterima ketika :other berisi :value.',
     'active_url'           => 'URL ini tidak sah.',
     'after'                => 'Tanggal harus berisi setelah :date.',
     'after_or_equal'       => 'Tanggal harus berisi setelah atau sama dengan :date.',

@@ -13,6 +13,7 @@
 
 return [
     'accepted'             => 'Вы должны принять :attribute.',
+    'accepted_if'          => 'Поле :attribute должно быть принято, когда :other соответствует :value.',
     'active_url'           => 'Поле :attribute содержит недействительный URL.',
     'after'                => 'В поле :attribute должна быть дата больше :date.',
     'after_or_equal'       => 'В поле :attribute должна быть дата больше или равняться :date.',
@@ -31,7 +32,7 @@ return [
     ],
     'boolean'              => 'Поле :attribute должно иметь значение логического типа.',
     'confirmed'            => 'Поле :attribute не совпадает с подтверждением.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Поле :attribute содержит некорректный пароль.',
     'date'                 => 'Поле :attribute не является датой.',
     'date_equals'          => 'Поле :attribute должно быть датой равной :date.',
     'date_format'          => 'Поле :attribute не соответствует формату :format.',
