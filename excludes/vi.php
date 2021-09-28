@@ -8,9 +8,12 @@
 | This is a list of exclusions for words or phrases where the original
 | form of the word has the same spelling in a given language.
 |
+| This list contains values.
+|
 */
 
 return [
+    'Administrator',
     'Afghanistan',
     'Albania',
     'Algeria',
@@ -57,6 +60,7 @@ return [
     'Djibouti',
     'Dominica',
     'Ecuador',
+    'Editor',
     'El Salvador',
     'Email',
     'Equatorial Guinea',
