@@ -2,74 +2,14 @@
 
 # et
 
-##### All missed: 154
+##### All missed: 141
 
-
-### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/et/auth.php)
-
-##### Missing: 1
-
-<table >
-<tr><td align="left" >
-password
-</td>
-<td align="left" >
-The provided password is incorrect.
-</td>
-</tr>
-
-</table>
-
-
-[ [go back](../status.md) | [to top](#) ]
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/et/validation-inline.php)
 
-##### Missing: 35
+##### Missing: 23
 
 <table >
-<tr><td align="left" >
-accepted_if
-</td>
-<td align="left" >
-This field must be accepted when :other is :value.
-</td>
-</tr>
-<tr><td align="left" >
-between.array
-</td>
-<td align="left" >
-This content must have between :min and :max items.
-</td>
-</tr>
-<tr><td align="left" >
-between.file
-</td>
-<td align="left" >
-This file must be between :min and :max kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-between.numeric
-</td>
-<td align="left" >
-This value must be between :min and :max.
-</td>
-</tr>
-<tr><td align="left" >
-between.string
-</td>
-<td align="left" >
-This string must be between :min and :max characters.
-</td>
-</tr>
-<tr><td align="left" >
-current_password
-</td>
-<td align="left" >
-The password is incorrect.
-</td>
-</tr>
 <tr><td align="left" >
 gt.array
 </td>
@@ -106,27 +46,6 @@ The content must have :value items or more.
 </td>
 </tr>
 <tr><td align="left" >
-gte.file
-</td>
-<td align="left" >
-The file size must be greater than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-gte.numeric
-</td>
-<td align="left" >
-The value must be greater than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-gte.string
-</td>
-<td align="left" >
-The string must be greater than or equal :value characters.
-</td>
-</tr>
-<tr><td align="left" >
 lt.array
 </td>
 <td align="left" >
@@ -159,27 +78,6 @@ lte.array
 </td>
 <td align="left" >
 The content must not have more than :value items.
-</td>
-</tr>
-<tr><td align="left" >
-lte.file
-</td>
-<td align="left" >
-The file size must be less than or equal :value kilobytes.
-</td>
-</tr>
-<tr><td align="left" >
-lte.numeric
-</td>
-<td align="left" >
-The value must be less than or equal :value.
-</td>
-</tr>
-<tr><td align="left" >
-lte.string
-</td>
-<td align="left" >
-The string must be less than or equal :value characters.
 </td>
 </tr>
 <tr><td align="left" >
