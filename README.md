@@ -1,5 +1,7 @@
 # Laravel Lang
 
+<img src="https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel" alt="Laravel Lang"/>
+
 In this repository, you can find the lang files for the [Laravel Framework 4/5/6/7/8](https://laravel.com), [Laravel Jetstream](https://jetstream.laravel.com) , [Laravel Fortify](https://github.com/laravel/fortify), [Laravel Cashier](https://laravel.com/docs/8.x/billing), [Laravel Breeze](https://github.com/laravel/breeze), [Laravel Nova](https://nova.laravel.com) and [Laravel Spark](https://spark.laravel.com).
 
 <p align="center">
@@ -21,9 +23,9 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 ## Translation managers
 
+* [Lang Publisher](https://github.com/Laravel-Lang/publisher) by [*@Laravel-Lang/laravel-lang*](https://github.com/Laravel-Lang/publisher) - Easy installation and update of translation files for your project.
 * [LaravelLang](https://github.com/ARCANEDEV/LaravelLang) by [*@arcanedev-maroc*](https://github.com/ARCANEDEV) - Translations manager and checker for Laravel.
 * [Laravel-lang](https://github.com/overtrue/laravel-lang) by [*@overtrue*](https://github.com/overtrue) - Command to add languages in your project.
-* [Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher) by [*@andrey-helldar*](https://github.com/andrey-helldar) - Easy installation and update of translation files for your project.
 
 ## Credits
 

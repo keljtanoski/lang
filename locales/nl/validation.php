@@ -36,6 +36,8 @@ return [
     'date'                 => ':Attribute moet een datum bevatten.',
     'date_equals'          => ':Attribute moet een datum gelijk aan :date zijn.',
     'date_format'          => ':Attribute moet een geldig datum formaat bevatten.',
+    'declined'             => ':attribute moet afgewezen worden.',
+    'declined_if'          => ':attribute moet afgewezen worden wanneer :other gelijk is aan :value.',
     'different'            => ':Attribute en :other moeten verschillend zijn.',
     'digits'               => ':Attribute moet bestaan uit :digits cijfers.',
     'digits_between'       => ':Attribute moet bestaan uit minimaal :min en maximaal :max cijfers.',

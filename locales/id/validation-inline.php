@@ -36,6 +36,8 @@ return [
     'date'                 => 'Isian ini bukan tanggal yang benar.',
     'date_equals'          => 'Isian ini harus berisi tanggal yang sama dengan :date.',
     'date_format'          => 'Isian ini tidak cocok dengan format :format.',
+    'declined'             => 'Isian ini harus ditolak.',
+    'declined_if'          => 'Isian ini harus ditolak ketika :other bernilai :value.',
     'different'            => 'Nilai ini harus tidak sama dengan :other.',
     'digits'               => 'Isian ini harus berisi :digits digit.',
     'digits_between'       => 'Isian ini harus di antara :min dan :max digit.',

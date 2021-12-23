@@ -11,8 +11,25 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
+ * feature: [es] #1916 validation.php, validation-inline.php
+ * feature: [nl] #1914 validation.php, validation-inline.php
+ * feature: [pl] #1915 validation.php, validation-inline.php
+
+## [10.1.11] - 2021-11-21
+
+### Changed
+
+ * feature: [ar] #1912 #1913 validation.php, validation-inline.php
  * feature: [bg] #1902 #1903 validation.php, validation-inline.php, auth.php, json file
- * feature: [ru] #1904 validation.php
+ * feature: [fr] validation.php, validation-inline.php
+ * feature: [ko] #1908 validation.php, validation-inline.php, validation-attributes.php, json file
+ * feature: [nl] #1906 #1910 validation.php, validation-inline.php, json file
+ * feature: [pl] #1905 #1909 validation-attributes.php, json file
+ * feature: [ru] #1904 #1911 validation-inline.php, validation.php
+
+### Reference
+
+ * feature: #1911 Added `declined` and `declined_if` validation rules
 
 ## [10.1.10] - 2021-11-03
 
@@ -660,7 +677,8 @@ For more information, see #1606 and #1607.
 
 * feature: #1269 Rename locale folders following ISO 15897 format
 
-[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...master
+[Unreleased]: https://github.com/caouecs/Laravel-lang/compare/10.1.11...master
+[10.1.11]: https://github.com/caouecs/Laravel-lang/compare/10.1.10...10.1.11
 [10.1.10]: https://github.com/caouecs/Laravel-lang/compare/10.1.9...10.1.10
 [10.1.9]: https://github.com/caouecs/Laravel-lang/compare/10.1.8...10.1.9
 [10.1.8]: https://github.com/caouecs/Laravel-lang/compare/10.1.7...10.1.8

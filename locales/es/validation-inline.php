@@ -36,6 +36,8 @@ return [
     'date'                 => 'Esta no es una fecha válida.',
     'date_equals'          => 'El campo debe ser una fecha igual a :date.',
     'date_format'          => 'El campo no corresponde al formato :format.',
+    'declined'             => 'Este campo debe ser rechazado.',
+    'declined_if'          => 'Este campo debe ser rechazado cuando :other sea :value.',
     'different'            => 'Este valor deben ser diferente de :other.',
     'digits'               => 'Debe tener :digits dígitos.',
     'digits_between'       => 'Debe tener entre :min y :max dígitos.',
