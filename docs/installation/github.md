@@ -1,8 +1,32 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](../index.md) / [Installation](../index.md#installation) / Via GitHub
+# GitHub
 
-* Clone the [GitHub repository](https://github.com/Laravel-Lang/lang/) : *git clone https://github.com/Laravel-Lang/lang.git*
-* Or download the [zip file](https://github.com/Laravel-Lang/lang/archive/master.zip)
-* Choose the branch:
-    * `laravel4` for Laravel 4 project
-    * `master` for Laravel 5, 6, 7, 8 projects
-* Copy the folders of languages that you want, in `resources/lang` folder of your Laravel application (or `app/lang` in Laravel 4).
+* Clone the [GitHub repository](https://github.com/Laravel-Lang/lang/):
+
+<CodeGroup>
+  <CodeGroupItem title="HTTPS">
+
+```bash:no-line-numbers
+git clone https://github.com/Laravel-Lang/lang.git
+```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title="SSH" active>
+
+```bash:no-line-numbers
+git clone git@github.com:Laravel-Lang/lang.git
+```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title="GitHub CLI">
+
+```bash:no-line-numbers
+gh repo clone Laravel-Lang/lang
+```
+
+  </CodeGroupItem>
+</CodeGroup>
+
+* Or download the [zip file](https://github.com/Laravel-Lang/lang/archive/refs/heads/master.zip)
+* Copy the folders of languages that you want, in `resources/lang` or `lang` directory of your Laravel application.

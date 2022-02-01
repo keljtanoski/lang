@@ -1,8 +1,6 @@
-[Laravel Lang](https://github.com/Laravel-Lang/lang) / [Main Page](index.md) / Completion Status
-
 # Completion status
 
-> Translation of localizations is completed by **79%** (58.6K / 74.5K).
+> Translation of localizations is completed by **79%** (57.6K / 72.8K).
 
 <table width="100%">
 <tr><td align="center" width="17%">
@@ -32,7 +30,7 @@
 </td>
 <td align="center" width="17%">
 
-[bn&nbsp;❗&nbsp;🤖](statuses/bn.md)
+[bn&nbsp;✔](statuses/bn.md)
 
 </td>
 </tr>
@@ -162,7 +160,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[it&nbsp;✔](statuses/it.md)
+[it&nbsp;❗](statuses/it.md)
 
 </td>
 <td align="center" width="17%">
@@ -193,7 +191,7 @@
 </tr>
 <tr><td align="center" width="17%">
 
-[ko&nbsp;❗](statuses/ko.md)
+[ko&nbsp;✔](statuses/ko.md)
 
 </td>
 <td align="center" width="17%">
@@ -270,7 +268,7 @@
 </td>
 <td align="center" width="17%">
 
-[pt_BR&nbsp;❗](statuses/pt-br.md)
+[pt_BR&nbsp;✔](statuses/pt-br.md)
 
 </td>
 <td align="center" width="17%">
@@ -389,7 +387,7 @@
 </td>
 <td align="center" width="17%">
 
-[vi&nbsp;❗](statuses/vi.md)
+[vi&nbsp;✔](statuses/vi.md)
 
 </td>
 <td align="center" width="17%">
