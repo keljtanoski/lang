@@ -1,6 +1,10 @@
+---
+editLink: false
+---
+
 # sr_Latn
 
-##### All missed: 140
+##### All missed: 142
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/auth.php)
@@ -21,7 +25,7 @@ The provided password is incorrect.
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/validation-inline.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -73,13 +77,20 @@ prohibits
 This field prohibits :other from being present.
 </td>
 </tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+This field must contain entries for: :values
+</td>
+</tr>
 
 </table>
 
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sr_Latn/validation.php)
 
-##### Missing: 7
+##### Missing: 8
 
 <table >
 <tr><td align="left" >
@@ -129,6 +140,13 @@ prohibits
 </td>
 <td align="left" >
 The :attribute field prohibits :other from being present.
+</td>
+</tr>
+<tr><td align="left" >
+required_array_keys
+</td>
+<td align="left" >
+The :attribute field must contain entries for: :values.
 </td>
 </tr>
 
