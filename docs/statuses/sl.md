@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 105
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation-inline.php)
 
 ##### Missing: 5
 
@@ -44,14 +44,14 @@ The value must be a valid MAC address.
 required_array_keys
 </td>
 <td align="left" >
-This field must contain entries for: :values
+This field must contain entries for: :values.
 </td>
 </tr>
 
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/validation.php)
 
 ##### Missing: 5
 
@@ -95,7 +95,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [sl](https://github.com/Laravel-Lang/lang/blob/master/locales/sl/sl.json)
+### [sl](https://github.com/Laravel-Lang/lang/blob/main/locales/sl/sl.json)
 
 ##### Missing: 95
 

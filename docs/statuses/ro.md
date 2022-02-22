@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 280
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
 
 ##### Missing: 34
 
@@ -219,7 +219,7 @@ This field prohibits :other from being present.
 required_array_keys
 </td>
 <td align="left" >
-This field must contain entries for: :values
+This field must contain entries for: :values.
 </td>
 </tr>
 <tr><td align="left" >
@@ -254,7 +254,7 @@ The string must be :size characters.
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation.php)
 
 ##### Missing: 8
 
@@ -319,7 +319,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [ro](https://github.com/Laravel-Lang/lang/blob/master/locales/ro/ro.json)
+### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
 ##### Missing: 238
 

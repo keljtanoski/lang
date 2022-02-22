@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 136
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation-inline.php)
 
 ##### Missing: 6
 
@@ -51,14 +51,14 @@ This field prohibits :other from being present.
 required_array_keys
 </td>
 <td align="left" >
-This field must contain entries for: :values
+This field must contain entries for: :values.
 </td>
 </tr>
 
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation.php)
 
 ##### Missing: 6
 
@@ -109,7 +109,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [uk](https://github.com/Laravel-Lang/lang/blob/master/locales/uk/uk.json)
+### [uk](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/uk.json)
 
 ##### Missing: 124
 

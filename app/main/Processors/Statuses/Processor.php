@@ -47,7 +47,7 @@ abstract class Processor extends BaseProcessor
         }
     }
 
-    protected function process(string $target_path, string $filename, string $locale = null): void
+    protected function process(string $target_path, string $filename, ?string $locale = null): void
     {
         $corrected = $this->resolveFilename($filename, $locale);
 
@@ -70,7 +70,8 @@ abstract class Processor extends BaseProcessor
         $source = $this->prepareComparing($source, $is_validation);
         $target = $this->prepareComparing($target, $is_validation);
 
-        return array_filter($target,
+        return array_filter(
+            $target,
             fn ($value, $key) => $this->hasEquals($value, $key, $source, $locale, $is_validation),
             ARRAY_FILTER_USE_BOTH
         );
@@ -95,7 +96,7 @@ abstract class Processor extends BaseProcessor
             return false;
         }
 
-        return Arr::get($source, $key) === $value;
+        return $value === Arr::get($source, $key);
     }
 
     protected function countMissing(string $locale): int
@@ -105,7 +106,7 @@ abstract class Processor extends BaseProcessor
         return array_sum($items);
     }
 
-    protected function getLocalePath(string $locale = null): string
+    protected function getLocalePath(?string $locale = null): string
     {
         return $this->app->localePath($locale);
     }
@@ -158,6 +159,5 @@ abstract class Processor extends BaseProcessor
 
     protected function ensureDirectory(): void
     {
-        //
     }
 }

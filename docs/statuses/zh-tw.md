@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 33
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/validation-inline.php)
 
 ##### Missing: 8
 
@@ -65,14 +65,14 @@ This field prohibits :other from being present.
 required_array_keys
 </td>
 <td align="left" >
-This field must contain entries for: :values
+This field must contain entries for: :values.
 </td>
 </tr>
 
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/validation.php)
 
 ##### Missing: 8
 
@@ -137,7 +137,7 @@ The :attribute field must contain entries for: :values.
 </table>
 
 
-### [zh_TW](https://github.com/Laravel-Lang/lang/blob/master/locales/zh_TW/zh_TW.json)
+### [zh_TW](https://github.com/Laravel-Lang/lang/blob/main/locales/zh_TW/zh_TW.json)
 
 ##### Missing: 17
 

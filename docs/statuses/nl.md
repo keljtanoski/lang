@@ -7,7 +7,7 @@ editLink: false
 ##### All missed: 2
 
 
-### [validation-inline](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation-inline.php)
+### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/nl/validation-inline.php)
 
 ##### Missing: 1
 
@@ -16,14 +16,14 @@ editLink: false
 required_array_keys
 </td>
 <td align="left" >
-This field must contain entries for: :values
+This field must contain entries for: :values.
 </td>
 </tr>
 
 </table>
 
 
-### [validation](https://github.com/Laravel-Lang/lang/blob/master/locales/nl/validation.php)
+### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/nl/validation.php)
 
 ##### Missing: 1
 
