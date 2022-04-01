@@ -4,7 +4,7 @@ editLink: false
 
 # fil
 
-##### All missed: 794
+##### All missed: 798
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/auth.php)
@@ -905,7 +905,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fil](https://github.com/Laravel-Lang/lang/blob/main/locales/fil/fil.json)
 
-##### Missing: 675
+##### Missing: 679
 
 <table >
 <tr><td align="left" >
@@ -1734,6 +1734,10 @@ February
 </tr>
 <tr><td align="left" >
 Fiji
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -2843,6 +2847,10 @@ Service Unavailable
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Seychelles
 </td>
 </tr>
@@ -3207,6 +3215,10 @@ This action is unauthorized.
 </td>
 </tr>
 <tr><td align="left" >
+This coupon code can only be used by new customers.
+</td>
+</tr>
+<tr><td align="left" >
 This device
 </td>
 </tr>
@@ -3264,6 +3276,10 @@ Timor-Leste
 </tr>
 <tr><td align="left" >
 to
+</td>
+</tr>
+<tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 </td>
 </tr>
 <tr><td align="left" >
@@ -3335,7 +3351,7 @@ Two Factor Authentication
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

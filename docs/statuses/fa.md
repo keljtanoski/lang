@@ -4,21 +4,14 @@ editLink: false
 
 # fa
 
-##### All missed: 121
+##### All missed: 124
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/validation-inline.php)
 
-##### Missing: 4
+##### Missing: 3
 
 <table >
-<tr><td align="left" >
-prohibited_if
-</td>
-<td align="left" >
-This field is prohibited when :other is :value.
-</td>
-</tr>
 <tr><td align="left" >
 prohibited_unless
 </td>
@@ -46,7 +39,7 @@ This field must contain entries for: :values.
 
 ### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/validation.php)
 
-##### Missing: 7
+##### Missing: 6
 
 <table >
 <tr><td align="left" >
@@ -61,13 +54,6 @@ enum
 </td>
 <td align="left" >
 The selected :attribute is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-mac_address
-</td>
-<td align="left" >
-The :attribute must be a valid MAC address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -104,7 +90,7 @@ The :attribute field must contain entries for: :values.
 
 ### [fa](https://github.com/Laravel-Lang/lang/blob/main/locales/fa/fa.json)
 
-##### Missing: 110
+##### Missing: 115
 
 <table >
 <tr><td align="left" >
@@ -125,6 +111,10 @@ Currently Subscribed
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -309,6 +299,10 @@ September
 </tr>
 <tr><td align="left" >
 Serbia
+</td>
+</tr>
+<tr><td align="left" >
+Setup Key
 </td>
 </tr>
 <tr><td align="left" >
@@ -516,6 +510,10 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+This coupon code can only be used by new customers.
+</td>
+</tr>
+<tr><td align="left" >
 This file field is read-only.
 </td>
 </tr>
@@ -537,6 +535,14 @@ This subscription cannot be resumed. Please create a new subscription.
 </tr>
 <tr><td align="left" >
 This subscription has expired and cannot be resumed. Please create a new subscription.
+</td>
+</tr>
+<tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

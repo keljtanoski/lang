@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 178
+##### All missed: 176
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/auth.php)
@@ -337,19 +337,11 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 135
+##### Missing: 133
 
 <table >
 <tr><td align="left" >
 :amount Total
-</td>
-</tr>
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
 </td>
 </tr>
 <tr><td align="left" >
@@ -393,10 +385,6 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
-Before proceeding, please check your email for a verification link.
-</td>
-</tr>
-<tr><td align="left" >
 Belize
 </td>
 </tr>
@@ -405,19 +393,7 @@ Bhutan
 </td>
 </tr>
 <tr><td align="left" >
-Billing Information
-</td>
-</tr>
-<tr><td align="left" >
 Billing Management
-</td>
-</tr>
-<tr><td align="left" >
-Bolivia, Plurinational State of
-</td>
-</tr>
-<tr><td align="left" >
-Bosnia and Herzegovina
 </td>
 </tr>
 <tr><td align="left" >
@@ -494,6 +470,10 @@ Failed to load :resource!
 </tr>
 <tr><td align="left" >
 Fiji
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -749,6 +729,10 @@ Senegal
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Seychelles
 </td>
 </tr>
@@ -789,7 +773,15 @@ The provided VAT number is invalid.
 </td>
 </tr>
 <tr><td align="left" >
+This coupon code can only be used by new customers.
+</td>
+</tr>
+<tr><td align="left" >
 Timor-Leste
+</td>
+</tr>
+<tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 </td>
 </tr>
 <tr><td align="left" >
@@ -826,6 +818,10 @@ Turks and Caicos Islands
 </tr>
 <tr><td align="left" >
 Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >
@@ -866,10 +862,6 @@ Yearly
 </tr>
 <tr><td align="left" >
 You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-Your :invoiceName invoice is now available!
 </td>
 </tr>
 <tr><td align="left" >

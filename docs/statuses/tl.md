@@ -4,7 +4,7 @@ editLink: false
 
 # tl
 
-##### All missed: 284
+##### All missed: 289
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/tl/auth.php)
@@ -407,7 +407,7 @@ The :attribute field must contain entries for: :values.
 
 ### [tl](https://github.com/Laravel-Lang/lang/blob/main/locales/tl/tl.json)
 
-##### Missing: 231
+##### Missing: 236
 
 <table >
 <tr><td align="left" >
@@ -632,6 +632,10 @@ Faroe Islands
 </tr>
 <tr><td align="left" >
 Fiji
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1020,6 +1024,10 @@ Senegal
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Seychelles
 </td>
 </tr>
@@ -1160,6 +1168,10 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+This coupon code can only be used by new customers.
+</td>
+</tr>
+<tr><td align="left" >
 This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
@@ -1169,6 +1181,10 @@ This subscription has expired and cannot be resumed. Please create a new subscri
 </tr>
 <tr><td align="left" >
 Timor-Leste
+</td>
+</tr>
+<tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1201,6 +1217,10 @@ Turks and Caicos Islands
 </tr>
 <tr><td align="left" >
 Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

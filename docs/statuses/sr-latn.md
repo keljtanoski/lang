@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 142
+##### All missed: 147
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/auth.php)
@@ -155,7 +155,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sr_Latn](https://github.com/Laravel-Lang/lang/blob/main/locales/sr_Latn/sr_Latn.json)
 
-##### Missing: 125
+##### Missing: 130
 
 <table >
 <tr><td align="left" >
@@ -272,6 +272,10 @@ Extra Billing Information
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -444,6 +448,10 @@ Select a different plan
 </td>
 </tr>
 <tr><td align="left" >
+Setup Key
+</td>
+</tr>
+<tr><td align="left" >
 Signed in as
 </td>
 </tr>
@@ -544,11 +552,19 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+This coupon code can only be used by new customers.
+</td>
+</tr>
+<tr><td align="left" >
 This subscription cannot be resumed. Please create a new subscription.
 </td>
 </tr>
 <tr><td align="left" >
 This subscription has expired and cannot be resumed. Please create a new subscription.
+</td>
+</tr>
+<tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
 </td>
 </tr>
 <tr><td align="left" >
@@ -561,6 +577,10 @@ Trinidad and Tobago
 </tr>
 <tr><td align="left" >
 Turks and Caicos Islands
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >

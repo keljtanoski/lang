@@ -4,7 +4,7 @@ editLink: false
 
 # cs
 
-##### All missed: 161
+##### All missed: 144
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/validation-inline.php)
@@ -125,13 +125,9 @@ The :attribute field must contain entries for: :values.
 
 ### [cs](https://github.com/Laravel-Lang/lang/blob/main/locales/cs/cs.json)
 
-##### Missing: 147
+##### Missing: 130
 
 <table >
-<tr><td align="left" >
-A fresh verification link has been sent to your email address.
-</td>
-</tr>
 <tr><td align="left" >
 Angola
 </td>
@@ -185,14 +181,6 @@ Burundi
 </td>
 </tr>
 <tr><td align="left" >
-Cancel Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Change Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
 Chile
 </td>
 </tr>
@@ -222,6 +210,10 @@ Eritrea
 </tr>
 <tr><td align="left" >
 Failed to load :resource!
+</td>
+</tr>
+<tr><td align="left" >
+Finish enabling two factor authentication.
 </td>
 </tr>
 <tr><td align="left" >
@@ -410,14 +402,6 @@ Peru
 </td>
 </tr>
 <tr><td align="left" >
-Please accept the terms of service.
-</td>
-</tr>
-<tr><td align="left" >
-Please confirm your password before continuing.
-</td>
-</tr>
-<tr><td align="left" >
 Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
@@ -482,11 +466,11 @@ Senegal
 </td>
 </tr>
 <tr><td align="left" >
-Sierra Leone
+Setup Key
 </td>
 </tr>
 <tr><td align="left" >
-Signed in as
+Sierra Leone
 </td>
 </tr>
 <tr><td align="left" >
@@ -530,47 +514,7 @@ Thanks,
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-<tr><td align="left" >
-The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-The provided coupon code is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The provided VAT number is invalid.
-</td>
-</tr>
-<tr><td align="left" >
 The receipt emails must be valid email addresses.
-</td>
-</tr>
-<tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -594,6 +538,10 @@ Timor-Leste
 </td>
 </tr>
 <tr><td align="left" >
+To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+</td>
+</tr>
+<tr><td align="left" >
 Togo
 </td>
 </tr>
@@ -611,6 +559,10 @@ Turks and Caicos Islands
 </tr>
 <tr><td align="left" >
 Tuvalu
+</td>
+</tr>
+<tr><td align="left" >
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
 </td>
 </tr>
 <tr><td align="left" >
@@ -638,19 +590,11 @@ Vanuatu
 </td>
 </tr>
 <tr><td align="left" >
-VAT Number
-</td>
-</tr>
-<tr><td align="left" >
 Venezuela
 </td>
 </tr>
 <tr><td align="left" >
 Venezuela, Bolivarian Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Verify Your Email Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -670,15 +614,7 @@ We will send a receipt download link to the email addresses that you specify bel
 </td>
 </tr>
 <tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
 You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
 </td>
 </tr>
 <tr><td align="left" >
@@ -711,10 +647,6 @@ Your registered VAT Number is :vatNumber.
 </tr>
 <tr><td align="left" >
 Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 
