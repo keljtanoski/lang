@@ -4,7 +4,53 @@ editLink: false
 
 # gu
 
-##### All missed: 796
+##### All missed: 815
+
+
+### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-nova-inline.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This field is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This field may not be associated with this resource.
+</td>
+</tr>
+
+</table>
+
+
+### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-nova.php)
+
+##### Missing: 2
+
+<table >
+<tr><td align="left" >
+attached
+</td>
+<td align="left" >
+This :attribute is already attached.
+</td>
+</tr>
+<tr><td align="left" >
+relatable
+</td>
+<td align="left" >
+This :attribute may not be associated with this resource.
+</td>
+</tr>
+
+</table>
 
 
 ### [passwords](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/passwords.php)
@@ -725,52 +771,6 @@ This must be a valid UUID.
 </table>
 
 
-### [validation-nova-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-nova-inline.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This field is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This field may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
-### [validation-nova](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation-nova.php)
-
-##### Missing: 2
-
-<table >
-<tr><td align="left" >
-attached
-</td>
-<td align="left" >
-This :attribute is already attached.
-</td>
-</tr>
-<tr><td align="left" >
-relatable
-</td>
-<td align="left" >
-This :attribute may not be associated with this resource.
-</td>
-</tr>
-
-</table>
-
-
 ### [validation](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/validation.php)
 
 ##### Missing: 13
@@ -873,7 +873,7 @@ The :attribute field must contain entries for: :values.
 
 ### [gu](https://github.com/Laravel-Lang/lang/blob/main/locales/gu/gu.json)
 
-##### Missing: 679
+##### Missing: 698
 
 <table >
 <tr><td align="left" >
@@ -1005,6 +1005,10 @@ An error occured while uploading the file.
 </td>
 </tr>
 <tr><td align="left" >
+An error occurred while uploading the file.
+</td>
+</tr>
+<tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
@@ -1097,6 +1101,10 @@ Are you sure you want to force delete this resource?
 </td>
 </tr>
 <tr><td align="left" >
+Are you sure you want to log out?
+</td>
+</tr>
+<tr><td align="left" >
 Are you sure you want to restore the selected resources?
 </td>
 </tr>
@@ -1106,6 +1114,10 @@ Are you sure you want to restore this resource?
 </tr>
 <tr><td align="left" >
 Are you sure you want to run this action?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
@@ -1505,6 +1517,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Dashboard
 </td>
 </tr>
@@ -1597,6 +1613,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -1658,6 +1678,10 @@ Equatorial Guinea
 </tr>
 <tr><td align="left" >
 Eritrea
+</td>
+</tr>
+<tr><td align="left" >
+Error
 </td>
 </tr>
 <tr><td align="left" >
@@ -1730,6 +1754,10 @@ Force Delete Resource
 </tr>
 <tr><td align="left" >
 Force Delete Selected
+</td>
+</tr>
+<tr><td align="left" >
+Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
@@ -1933,13 +1961,7 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
-</td>
-</tr>
-<tr><td align="left" >
-If you’re having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
+Impersonate
 </td>
 </tr>
 <tr><td align="left" >
@@ -2087,6 +2109,10 @@ Liechtenstein
 </td>
 </tr>
 <tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
 Lithuania
 </td>
 </tr>
@@ -2096,6 +2122,10 @@ Load :perPage More
 </tr>
 <tr><td align="left" >
 Log in
+</td>
+</tr>
+<tr><td align="left" >
+Log In
 </td>
 </tr>
 <tr><td align="left" >
@@ -2567,6 +2597,10 @@ Preview
 </td>
 </tr>
 <tr><td align="left" >
+Previewing
+</td>
+</tr>
+<tr><td align="left" >
 Previous
 </td>
 </tr>
@@ -2643,6 +2677,10 @@ Remove Team Member
 </td>
 </tr>
 <tr><td align="left" >
+Replicate
+</td>
+</tr>
+<tr><td align="left" >
 Resend Verification Email
 </td>
 </tr>
@@ -2660,6 +2698,10 @@ Reset Password Notification
 </tr>
 <tr><td align="left" >
 resource
+</td>
+</tr>
+<tr><td align="left" >
+Resource Row Dropdown
 </td>
 </tr>
 <tr><td align="left" >
@@ -2911,6 +2953,10 @@ State / County
 </td>
 </tr>
 <tr><td align="left" >
+Stop Impersonating
+</td>
+</tr>
+<tr><td align="left" >
 Stop Polling
 </td>
 </tr>
@@ -2952,6 +2998,10 @@ Switch Teams
 </tr>
 <tr><td align="left" >
 Switzerland
+</td>
+</tr>
+<tr><td align="left" >
+System
 </td>
 </tr>
 <tr><td align="left" >
@@ -3139,6 +3189,14 @@ The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
+The resource was attached!
+</td>
+</tr>
+<tr><td align="left" >
+The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
 The resource was updated!
 </td>
 </tr>
@@ -3159,11 +3217,23 @@ There are no available options for this resource.
 </td>
 </tr>
 <tr><td align="left" >
+There are no fields to display.
+</td>
+</tr>
+<tr><td align="left" >
+There are no new notifications.
+</td>
+</tr>
+<tr><td align="left" >
 There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
 There was a problem executing the action.
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 <tr><td align="left" >
@@ -3179,7 +3249,7 @@ This account does not have an active subscription.
 </td>
 </tr>
 <tr><td align="left" >
-This action is unauthorized.
+This copy of Nova is unlicensed.
 </td>
 </tr>
 <tr><td align="left" >
@@ -3448,6 +3518,10 @@ We are processing your subscription. Once the subscription has successfully proc
 </tr>
 <tr><td align="left" >
 We are unable to process your payment. Please contact customer support.
+</td>
+</tr>
+<tr><td align="left" >
+We have emailed your password reset link!
 </td>
 </tr>
 <tr><td align="left" >

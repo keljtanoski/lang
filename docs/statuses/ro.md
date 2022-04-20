@@ -4,7 +4,7 @@ editLink: false
 
 # ro
 
-##### All missed: 277
+##### All missed: 279
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/validation-inline.php)
@@ -256,7 +256,7 @@ The string must be :size characters.
 
 ### [ro](https://github.com/Laravel-Lang/lang/blob/main/locales/ro/ro.json)
 
-##### Missing: 243
+##### Missing: 245
 
 <table >
 <tr><td align="left" >
@@ -296,6 +296,10 @@ Algeria
 </td>
 </tr>
 <tr><td align="left" >
+An error occurred while uploading the file.
+</td>
+</tr>
+<tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
@@ -321,6 +325,14 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to log out?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
@@ -488,11 +500,19 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Djibouti
 </td>
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -505,6 +525,10 @@ Editor
 </tr>
 <tr><td align="left" >
 Email Addresses
+</td>
+</tr>
+<tr><td align="left" >
+Error
 </td>
 </tr>
 <tr><td align="left" >
@@ -529,6 +553,10 @@ Fiji
 </tr>
 <tr><td align="left" >
 Finish enabling two factor authentication.
+</td>
+</tr>
+<tr><td align="left" >
+Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
@@ -612,8 +640,7 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
+Impersonate
 </td>
 </tr>
 <tr><td align="left" >
@@ -673,6 +700,14 @@ Liechtenstein
 </td>
 </tr>
 <tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
+Log In
+</td>
+</tr>
+<tr><td align="left" >
 Macao
 </td>
 </tr>
@@ -714,10 +749,6 @@ Micronesia, Federated States of
 </tr>
 <tr><td align="left" >
 Moldova
-</td>
-</tr>
-<tr><td align="left" >
-Moldova, Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -809,19 +840,7 @@ Paraguay
 </td>
 </tr>
 <tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
 Peru
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
@@ -833,6 +852,10 @@ Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
+Previewing
+</td>
+</tr>
+<tr><td align="left" >
 Puerto Rico
 </td>
 </tr>
@@ -841,19 +864,11 @@ Qatar
 </td>
 </tr>
 <tr><td align="left" >
-Receipt Email Addresses
+Replicate
 </td>
 </tr>
 <tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
+Resource Row Dropdown
 </td>
 </tr>
 <tr><td align="left" >
@@ -862,10 +877,6 @@ Romania
 </tr>
 <tr><td align="left" >
 Rwanda
-</td>
-</tr>
-<tr><td align="left" >
-Réunion
 </td>
 </tr>
 <tr><td align="left" >
@@ -901,23 +912,11 @@ Sao Tome and Principe
 </td>
 </tr>
 <tr><td align="left" >
-Select
-</td>
-</tr>
-<tr><td align="left" >
-Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
 Senegal
 </td>
 </tr>
 <tr><td align="left" >
 Serbia
-</td>
-</tr>
-<tr><td align="left" >
-Setup Key
 </td>
 </tr>
 <tr><td align="left" >
@@ -953,19 +952,7 @@ Standalone Actions
 </td>
 </tr>
 <tr><td align="left" >
-State / County
-</td>
-</tr>
-<tr><td align="left" >
-Subscribe
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Information
-</td>
-</tr>
-<tr><td align="left" >
-Subscription Pending
+Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
@@ -977,19 +964,15 @@ Svalbard and Jan Mayen
 </td>
 </tr>
 <tr><td align="left" >
+System
+</td>
+</tr>
+<tr><td align="left" >
 Taiwan
 </td>
 </tr>
 <tr><td align="left" >
-Taiwan, Province of China
-</td>
-</tr>
-<tr><td align="left" >
 Tanzania
-</td>
-</tr>
-<tr><td align="left" >
-Tanzania, United Republic of
 </td>
 </tr>
 <tr><td align="left" >
@@ -1037,6 +1020,14 @@ The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
+The resource was attached!
+</td>
+</tr>
+<tr><td align="left" >
+The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
 The selected country is invalid.
 </td>
 </tr>
@@ -1045,11 +1036,27 @@ The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
+There are no fields to display.
+</td>
+</tr>
+<tr><td align="left" >
+There are no new notifications.
+</td>
+</tr>
+<tr><td align="left" >
 There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+There was a problem fetching the resource.
+</td>
+</tr>
+<tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This copy of Nova is unlicensed.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1169,6 +1176,10 @@ We are unable to process your payment. Please contact customer support.
 </td>
 </tr>
 <tr><td align="left" >
+We have emailed your password reset link!
+</td>
+</tr>
+<tr><td align="left" >
 We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 </td>
 </tr>
@@ -1222,10 +1233,6 @@ Zambia
 </tr>
 <tr><td align="left" >
 Zimbabwe
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

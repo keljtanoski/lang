@@ -4,16 +4,28 @@ editLink: false
 
 # id
 
-##### All missed: 5
+##### All missed: 9
 
 
 ### [id](https://github.com/Laravel-Lang/lang/blob/main/locales/id/id.json)
 
-##### Missing: 5
+##### Missing: 9
 
 <table >
 <tr><td align="left" >
-Finish enabling two factor authentication.
+Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+Impersonate
+</td>
+</tr>
+<tr><td align="left" >
+Replicate
+</td>
+</tr>
+<tr><td align="left" >
+Resource Row Dropdown
 </td>
 </tr>
 <tr><td align="left" >
@@ -21,15 +33,19 @@ Setup Key
 </td>
 </tr>
 <tr><td align="left" >
-This coupon code can only be used by new customers.
+Stop Impersonating
 </td>
 </tr>
 <tr><td align="left" >
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
+The resource was attached!
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
+The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
+There was a problem fetching the resource.
 </td>
 </tr>
 

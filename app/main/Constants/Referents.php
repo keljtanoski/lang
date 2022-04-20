@@ -14,6 +14,8 @@ class Referents
 
     public const es = ['luisprmat'];
 
+    public const fa = ['ariaieboy'];
+
     public const fr = ['caouecs', 'WhereIsLucas'];
 
     public const it = ['masterix21'];
@@ -25,6 +27,8 @@ class Referents
     public const pl = ['Olsza'];
 
     public const pt = ['jorgercosta'];
+
+    public const pt_BR = ['EuCarlos'];
 
     public const ru = ['andrey-helldar'];
 

@@ -4,7 +4,7 @@ editLink: false
 
 # sw
 
-##### All missed: 358
+##### All missed: 379
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/sw/auth.php)
@@ -337,7 +337,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sw](https://github.com/Laravel-Lang/lang/blob/main/locales/sw/sw.json)
 
-##### Missing: 315
+##### Missing: 336
 
 <table >
 <tr><td align="left" >
@@ -377,6 +377,10 @@ American Samoa
 </td>
 </tr>
 <tr><td align="left" >
+An error occurred while uploading the file.
+</td>
+</tr>
+<tr><td align="left" >
 An unexpected error occurred and we have notified our support team. Please try again later.
 </td>
 </tr>
@@ -402,6 +406,14 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to log out?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
@@ -617,6 +629,10 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 Denmark
 </td>
 </tr>
@@ -633,6 +649,10 @@ Download Receipt
 </td>
 </tr>
 <tr><td align="left" >
+E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
 Ecuador
 </td>
 </tr>
@@ -646,6 +666,10 @@ Equatorial Guinea
 </tr>
 <tr><td align="left" >
 Eritrea
+</td>
+</tr>
+<tr><td align="left" >
+Error
 </td>
 </tr>
 <tr><td align="left" >
@@ -678,6 +702,10 @@ Finish enabling two factor authentication.
 </tr>
 <tr><td align="left" >
 Finland
+</td>
+</tr>
+<tr><td align="left" >
+Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
@@ -785,8 +813,7 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
+Impersonate
 </td>
 </tr>
 <tr><td align="left" >
@@ -890,7 +917,15 @@ Liechtenstein
 </td>
 </tr>
 <tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
 Lithuania
+</td>
+</tr>
+<tr><td align="left" >
+Log In
 </td>
 </tr>
 <tr><td align="left" >
@@ -1114,6 +1149,10 @@ Poland
 </td>
 </tr>
 <tr><td align="left" >
+Previewing
+</td>
+</tr>
+<tr><td align="left" >
 Profile
 </td>
 </tr>
@@ -1139,6 +1178,14 @@ Regards
 </tr>
 <tr><td align="left" >
 Reload
+</td>
+</tr>
+<tr><td align="left" >
+Replicate
+</td>
+</tr>
+<tr><td align="left" >
+Resource Row Dropdown
 </td>
 </tr>
 <tr><td align="left" >
@@ -1270,6 +1317,10 @@ State / County
 </td>
 </tr>
 <tr><td align="left" >
+Stop Impersonating
+</td>
+</tr>
+<tr><td align="left" >
 Subscribe
 </td>
 </tr>
@@ -1295,6 +1346,10 @@ Svalbard and Jan Mayen
 </tr>
 <tr><td align="left" >
 Sweden
+</td>
+</tr>
+<tr><td align="left" >
+System
 </td>
 </tr>
 <tr><td align="left" >
@@ -1366,6 +1421,14 @@ The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
+The resource was attached!
+</td>
+</tr>
+<tr><td align="left" >
+The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
 The selected country is invalid.
 </td>
 </tr>
@@ -1374,11 +1437,27 @@ The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
+There are no fields to display.
+</td>
+</tr>
+<tr><td align="left" >
+There are no new notifications.
+</td>
+</tr>
+<tr><td align="left" >
 There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+There was a problem fetching the resource.
+</td>
+</tr>
+<tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This copy of Nova is unlicensed.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1523,6 +1602,10 @@ We are processing your subscription. Once the subscription has successfully proc
 </tr>
 <tr><td align="left" >
 We are unable to process your payment. Please contact customer support.
+</td>
+</tr>
+<tr><td align="left" >
+We have emailed your password reset link!
 </td>
 </tr>
 <tr><td align="left" >

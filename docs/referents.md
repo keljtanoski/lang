@@ -143,6 +143,8 @@ fa
 </td>
 <td align="left" >
 
+[@ariaieboy](https://github.com/ariaieboy)
+
 </td>
 </tr>
 <tr><td align="left" >
@@ -394,6 +396,8 @@ pt
 pt_BR
 </td>
 <td align="left" >
+
+[@EuCarlos](https://github.com/EuCarlos)
 
 </td>
 </tr>

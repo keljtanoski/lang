@@ -4,7 +4,7 @@ editLink: false
 
 # hu
 
-##### All missed: 235
+##### All missed: 256
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/hu/validation-inline.php)
@@ -321,7 +321,7 @@ The :attribute field must contain entries for: :values.
 
 ### [hu](https://github.com/Laravel-Lang/lang/blob/main/locales/hu/hu.json)
 
-##### Missing: 193
+##### Missing: 214
 
 <table >
 <tr><td align="left" >
@@ -342,6 +342,10 @@ Address
 </tr>
 <tr><td align="left" >
 Address Line 2
+</td>
+</tr>
+<tr><td align="left" >
+An error occurred while uploading the file.
 </td>
 </tr>
 <tr><td align="left" >
@@ -370,6 +374,14 @@ Apply
 </tr>
 <tr><td align="left" >
 Apply Coupon
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to log out?
+</td>
+</tr>
+<tr><td align="left" >
+Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
@@ -477,11 +489,19 @@ Côte d'Ivoire
 </td>
 </tr>
 <tr><td align="left" >
+Dark
+</td>
+</tr>
+<tr><td align="left" >
 December
 </td>
 </tr>
 <tr><td align="left" >
 Download Receipt
+</td>
+</tr>
+<tr><td align="left" >
+E-Mail Address
 </td>
 </tr>
 <tr><td align="left" >
@@ -494,6 +514,10 @@ Email Addresses
 </tr>
 <tr><td align="left" >
 Eritrea
+</td>
+</tr>
+<tr><td align="left" >
+Error
 </td>
 </tr>
 <tr><td align="left" >
@@ -510,6 +534,10 @@ Failed to load :resource!
 </tr>
 <tr><td align="left" >
 Finish enabling two factor authentication.
+</td>
+</tr>
+<tr><td align="left" >
+Forgot Password
 </td>
 </tr>
 <tr><td align="left" >
@@ -585,8 +613,7 @@ If you need to add specific contact or tax information to your receipts, like yo
 </td>
 </tr>
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
+Impersonate
 </td>
 </tr>
 <tr><td align="left" >
@@ -631,6 +658,14 @@ Lesotho
 </tr>
 <tr><td align="left" >
 Liechtenstein
+</td>
+</tr>
+<tr><td align="left" >
+Light
+</td>
+</tr>
+<tr><td align="left" >
+Log In
 </td>
 </tr>
 <tr><td align="left" >
@@ -754,6 +789,10 @@ Please provide a maximum of three receipt emails addresses.
 </td>
 </tr>
 <tr><td align="left" >
+Previewing
+</td>
+</tr>
+<tr><td align="left" >
 Puerto Rico
 </td>
 </tr>
@@ -767,6 +806,14 @@ Receipt Email Addresses
 </tr>
 <tr><td align="left" >
 Receipts
+</td>
+</tr>
+<tr><td align="left" >
+Replicate
+</td>
+</tr>
+<tr><td align="left" >
+Resource Row Dropdown
 </td>
 </tr>
 <tr><td align="left" >
@@ -842,6 +889,10 @@ State / County
 </td>
 </tr>
 <tr><td align="left" >
+Stop Impersonating
+</td>
+</tr>
+<tr><td align="left" >
 Subscribe
 </td>
 </tr>
@@ -859,6 +910,10 @@ Suriname
 </tr>
 <tr><td align="left" >
 Svalbard and Jan Mayen
+</td>
+</tr>
+<tr><td align="left" >
+System
 </td>
 </tr>
 <tr><td align="left" >
@@ -914,6 +969,14 @@ The receipt emails must be valid email addresses.
 </td>
 </tr>
 <tr><td align="left" >
+The resource was attached!
+</td>
+</tr>
+<tr><td align="left" >
+The resource was prevented from being saved!
+</td>
+</tr>
+<tr><td align="left" >
 The selected country is invalid.
 </td>
 </tr>
@@ -922,11 +985,27 @@ The selected plan is invalid.
 </td>
 </tr>
 <tr><td align="left" >
+There are no fields to display.
+</td>
+</tr>
+<tr><td align="left" >
+There are no new notifications.
+</td>
+</tr>
+<tr><td align="left" >
 There is no active subscription.
 </td>
 </tr>
 <tr><td align="left" >
+There was a problem fetching the resource.
+</td>
+</tr>
+<tr><td align="left" >
 This account does not have an active subscription.
+</td>
+</tr>
+<tr><td align="left" >
+This copy of Nova is unlicensed.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1031,6 +1110,10 @@ We are processing your subscription. Once the subscription has successfully proc
 </tr>
 <tr><td align="left" >
 We are unable to process your payment. Please contact customer support.
+</td>
+</tr>
+<tr><td align="left" >
+We have emailed your password reset link!
 </td>
 </tr>
 <tr><td align="left" >

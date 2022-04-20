@@ -48,6 +48,7 @@ return [
     'Editor',
     'El Salvador',
     'Eritrea',
+    'Error',
     'Estonia',
     'Gambia',
     'Georgia',
