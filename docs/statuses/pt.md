@@ -4,12 +4,12 @@ editLink: false
 
 # pt
 
-##### All missed: 106
+##### All missed: 107
 
 
 ### [pt](https://github.com/Laravel-Lang/lang/blob/main/locales/pt/pt.json)
 
-##### Missing: 106
+##### Missing: 107
 
 <table >
 <tr><td align="left" >
@@ -62,6 +62,11 @@ Heard Island and McDonald Islands
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

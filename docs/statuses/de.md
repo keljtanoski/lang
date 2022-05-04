@@ -4,20 +4,17 @@ editLink: false
 
 # de
 
-##### All missed: 2
+##### All missed: 1
 
 
 ### [de](https://github.com/Laravel-Lang/lang/blob/main/locales/de/de.json)
 
-##### Missing: 2
+##### Missing: 1
 
 <table >
 <tr><td align="left" >
-Resource Row Dropdown
-</td>
-</tr>
-<tr><td align="left" >
-There was a problem fetching the resource.
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 

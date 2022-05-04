@@ -4,7 +4,7 @@ editLink: false
 
 # sk
 
-##### All missed: 247
+##### All missed: 248
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/sk/validation-inline.php)
@@ -286,7 +286,7 @@ The :attribute field must contain entries for: :values.
 
 ### [sk](https://github.com/Laravel-Lang/lang/blob/main/locales/sk/sk.json)
 
-##### Missing: 210
+##### Missing: 211
 
 <table >
 <tr><td align="left" >
@@ -571,6 +571,11 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+</td>
+</tr>
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
 </td>
 </tr>
 <tr><td align="left" >

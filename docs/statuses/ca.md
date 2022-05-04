@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 44
+##### All missed: 45
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/validation-inline.php)
@@ -321,9 +321,14 @@ The :attribute field must contain entries for: :values.
 
 ### [ca](https://github.com/Laravel-Lang/lang/blob/main/locales/ca/ca.json)
 
-##### Missing: 2
+##### Missing: 3
 
 <table >
+<tr><td align="left" >
+If you're having trouble clicking the ":actionText" button, copy and paste the URL below
+into your web browser:
+</td>
+</tr>
 <tr><td align="left" >
 Réunion
 </td>
