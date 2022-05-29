@@ -4,7 +4,7 @@ editLink: false
 
 # uk
 
-##### All missed: 163
+##### All missed: 100
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/validation-inline.php)
@@ -111,7 +111,7 @@ The :attribute field must contain entries for: :values.
 
 ### [uk](https://github.com/Laravel-Lang/lang/blob/main/locales/uk/uk.json)
 
-##### Missing: 151
+##### Missing: 88
 
 <table >
 <tr><td align="left" >
@@ -123,19 +123,11 @@ A fresh verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
-Add VAT Number
+A new verification link has been sent to the email address you provided in your profile settings.
 </td>
 </tr>
 <tr><td align="left" >
-Address
-</td>
-</tr>
-<tr><td align="left" >
-Address Line 2
-</td>
-</tr>
-<tr><td align="left" >
-An error occurred while uploading the file.
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -147,19 +139,15 @@ Antigua and Barbuda
 </td>
 </tr>
 <tr><td align="left" >
-Apply
-</td>
-</tr>
-<tr><td align="left" >
-Apply Coupon
-</td>
-</tr>
-<tr><td align="left" >
 Are you sure you want to log out?
 </td>
 </tr>
 <tr><td align="left" >
 Are you sure you want to stop impersonating?
+</td>
+</tr>
+<tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
 </td>
 </tr>
 <tr><td align="left" >
@@ -187,11 +175,11 @@ Cancel Subscription
 </td>
 </tr>
 <tr><td align="left" >
-Change Subscription Plan
+City
 </td>
 </tr>
 <tr><td align="left" >
-City
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -200,42 +188,6 @@ click here to request another
 </tr>
 <tr><td align="left" >
 Congo, the Democratic Republic of the
-</td>
-</tr>
-<tr><td align="left" >
-Country
-</td>
-</tr>
-<tr><td align="left" >
-Coupon
-</td>
-</tr>
-<tr><td align="left" >
-Current Subscription Plan
-</td>
-</tr>
-<tr><td align="left" >
-Currently Subscribed
-</td>
-</tr>
-<tr><td align="left" >
-Côte d'Ivoire
-</td>
-</tr>
-<tr><td align="left" >
-Dark
-</td>
-</tr>
-<tr><td align="left" >
-Download Receipt
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
-</td>
-</tr>
-<tr><td align="left" >
-Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
@@ -255,14 +207,6 @@ Failed to load :resource!
 </td>
 </tr>
 <tr><td align="left" >
-Finish enabling two factor authentication.
-</td>
-</tr>
-<tr><td align="left" >
-Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
 Have a coupon code?
 </td>
 </tr>
@@ -275,20 +219,11 @@ Heard Island and McDonald Islands
 </td>
 </tr>
 <tr><td align="left" >
-I accept the terms of service
-</td>
-</tr>
-<tr><td align="left" >
 If you did not receive the email
 </td>
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -304,23 +239,11 @@ Isle of Man
 </td>
 </tr>
 <tr><td align="left" >
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-</td>
-</tr>
-<tr><td align="left" >
 Jane Doe
 </td>
 </tr>
 <tr><td align="left" >
 Korea, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Light
-</td>
-</tr>
-<tr><td align="left" >
-Log In
 </td>
 </tr>
 <tr><td align="left" >
@@ -332,23 +255,11 @@ Macedonia, the former Yugoslav Republic of
 </td>
 </tr>
 <tr><td align="left" >
-Managing billing for :billableName
-</td>
-</tr>
-<tr><td align="left" >
 Micronesia, Federated States of
 </td>
 </tr>
 <tr><td align="left" >
 Moldova, Republic of
-</td>
-</tr>
-<tr><td align="left" >
-Monthly
-</td>
-</tr>
-<tr><td align="left" >
-monthly
 </td>
 </tr>
 <tr><td align="left" >
@@ -361,18 +272,6 @@ Nevermind, I'll keep my old plan
 </tr>
 <tr><td align="left" >
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
-</td>
-</tr>
-<tr><td align="left" >
-Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-Please accept the terms of service.
 </td>
 </tr>
 <tr><td align="left" >
@@ -396,23 +295,11 @@ Receipt Email Addresses
 </td>
 </tr>
 <tr><td align="left" >
-Receipts
-</td>
-</tr>
-<tr><td align="left" >
 Replicate
 </td>
 </tr>
 <tr><td align="left" >
 Resource Row Dropdown
-</td>
-</tr>
-<tr><td align="left" >
-Resume Subscription
-</td>
-</tr>
-<tr><td align="left" >
-Return to :appName
 </td>
 </tr>
 <tr><td align="left" >
@@ -448,27 +335,11 @@ Select
 </td>
 </tr>
 <tr><td align="left" >
-Select a different plan
-</td>
-</tr>
-<tr><td align="left" >
-Setup Key
-</td>
-</tr>
-<tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
 South Georgia and the South Sandwich Islands
 </td>
 </tr>
 <tr><td align="left" >
 Standalone Actions
-</td>
-</tr>
-<tr><td align="left" >
-State / County
 </td>
 </tr>
 <tr><td align="left" >
@@ -512,31 +383,7 @@ Thanks,
 </td>
 </tr>
 <tr><td align="left" >
-The :attribute must contain at least one letter.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one number.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one symbol.
-</td>
-</tr>
-<tr><td align="left" >
-The :attribute must contain at least one uppercase and one lowercase letter.
-</td>
-</tr>
-<tr><td align="left" >
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-</td>
-</tr>
-<tr><td align="left" >
 The password is incorrect.
-</td>
-</tr>
-<tr><td align="left" >
-The provided coupon code is invalid.
 </td>
 </tr>
 <tr><td align="left" >
@@ -556,39 +403,7 @@ The resource was prevented from being saved!
 </td>
 </tr>
 <tr><td align="left" >
-The selected country is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-The selected plan is invalid.
-</td>
-</tr>
-<tr><td align="left" >
-There are no fields to display.
-</td>
-</tr>
-<tr><td align="left" >
-There are no new notifications.
-</td>
-</tr>
-<tr><td align="left" >
-There is no active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-There was a problem fetching the resource.
-</td>
-</tr>
-<tr><td align="left" >
 This account does not have an active subscription.
-</td>
-</tr>
-<tr><td align="left" >
-This copy of Nova is unlicensed.
-</td>
-</tr>
-<tr><td align="left" >
-This coupon code can only be used by new customers.
 </td>
 </tr>
 <tr><td align="left" >
@@ -616,23 +431,7 @@ Turks and Caicos Islands
 </td>
 </tr>
 <tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-</td>
-</tr>
-<tr><td align="left" >
 United States Minor Outlying Islands
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Information
-</td>
-</tr>
-<tr><td align="left" >
-Update Payment Method
-</td>
-</tr>
-<tr><td align="left" >
-VAT Number
 </td>
 </tr>
 <tr><td align="left" >
@@ -641,10 +440,6 @@ Venezuela, Bolivarian Republic of
 </tr>
 <tr><td align="left" >
 Verify Your Email Address
-</td>
-</tr>
-<tr><td align="left" >
-View Receipt
 </td>
 </tr>
 <tr><td align="left" >
@@ -664,55 +459,7 @@ We have emailed your password reset link!
 </td>
 </tr>
 <tr><td align="left" >
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-</td>
-</tr>
-<tr><td align="left" >
-Yearly
-</td>
-</tr>
-<tr><td align="left" >
-You are already subscribed.
-</td>
-</tr>
-<tr><td align="left" >
-You are currently within your free trial period. Your trial will expire on :date.
-</td>
-</tr>
-<tr><td align="left" >
-You are logged in!
-</td>
-</tr>
-<tr><td align="left" >
-You may accept this invitation by clicking the button below:
-</td>
-</tr>
-<tr><td align="left" >
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-</td>
-</tr>
-<tr><td align="left" >
-Your :invoiceName invoice is now available!
-</td>
-</tr>
-<tr><td align="left" >
-Your card was declined. Please contact your card issuer for more information.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is :paypal.
-</td>
-</tr>
-<tr><td align="left" >
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-</td>
-</tr>
-<tr><td align="left" >
-Your registered VAT Number is :vatNumber.
-</td>
-</tr>
-<tr><td align="left" >
-Zip / Postal Code
 </td>
 </tr>
 <tr><td align="left" >

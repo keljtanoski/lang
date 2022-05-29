@@ -4,7 +4,7 @@ editLink: false
 
 # ps
 
-##### All missed: 782
+##### All missed: 787
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/auth.php)
@@ -840,7 +840,7 @@ The :attribute field must contain entries for: :values.
 
 ### [ps](https://github.com/Laravel-Lang/lang/blob/main/locales/ps/ps.json)
 
-##### Missing: 671
+##### Missing: 676
 
 <table >
 <tr><td align="left" >
@@ -877,6 +877,14 @@ A fresh verification link has been sent to your email address.
 </tr>
 <tr><td align="left" >
 A new verification link has been sent to the email address you provided during registration.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1152,6 +1160,10 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
@@ -1325,6 +1337,10 @@ Christmas Island
 </tr>
 <tr><td align="left" >
 City
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -1589,6 +1605,10 @@ Edit :resource
 </tr>
 <tr><td align="left" >
 Edit Attached
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -1893,11 +1913,6 @@ If you do not have an account, you may create one by clicking the button below. 
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -3506,6 +3521,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

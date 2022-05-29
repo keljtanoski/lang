@@ -4,7 +4,7 @@ editLink: false
 
 # az
 
-##### All missed: 239
+##### All missed: 244
 
 
 ### [auth](https://github.com/Laravel-Lang/lang/blob/main/locales/az/auth.php)
@@ -272,7 +272,7 @@ The string must be :size characters.
 
 ### [az](https://github.com/Laravel-Lang/lang/blob/main/locales/az/az.json)
 
-##### Missing: 204
+##### Missing: 209
 
 <table >
 <tr><td align="left" >
@@ -281,6 +281,14 @@ The string must be :size characters.
 </tr>
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -344,6 +352,10 @@ Barbados
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
@@ -404,6 +416,10 @@ City
 </td>
 </tr>
 <tr><td align="left" >
+Click here to re-send the verification email.
+</td>
+</tr>
+<tr><td align="left" >
 click here to request another
 </td>
 </tr>
@@ -445,6 +461,10 @@ Download Receipt
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -533,11 +553,6 @@ If you did not receive the email
 </tr>
 <tr><td align="left" >
 If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -1078,6 +1093,10 @@ Your current payment method is :paypal.
 </tr>
 <tr><td align="left" >
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 <tr><td align="left" >

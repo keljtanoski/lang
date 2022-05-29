@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 57
+##### All missed: 62
 
 
 ### [validation-inline](https://github.com/Laravel-Lang/lang/blob/main/locales/si/validation-inline.php)
@@ -104,11 +104,19 @@ The :attribute field must contain entries for: :values.
 
 ### [si](https://github.com/Laravel-Lang/lang/blob/main/locales/si/si.json)
 
-##### Missing: 46
+##### Missing: 51
 
 <table >
 <tr><td align="left" >
 A fresh verification link has been sent to your email address.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to the email address you provided in your profile settings.
+</td>
+</tr>
+<tr><td align="left" >
+A new verification link has been sent to your email address.
 </td>
 </tr>
 <tr><td align="left" >
@@ -124,11 +132,19 @@ Are you sure you want to stop impersonating?
 </td>
 </tr>
 <tr><td align="left" >
+Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+</td>
+</tr>
+<tr><td align="left" >
 Before proceeding, please check your email for a verification link.
 </td>
 </tr>
 <tr><td align="left" >
 Bosnia and Herzegovina
+</td>
+</tr>
+<tr><td align="left" >
+Click here to re-send the verification email.
 </td>
 </tr>
 <tr><td align="left" >
@@ -145,6 +161,10 @@ Dark
 </tr>
 <tr><td align="left" >
 E-Mail Address
+</td>
+</tr>
+<tr><td align="left" >
+Edit Profile
 </td>
 </tr>
 <tr><td align="left" >
@@ -165,11 +185,6 @@ Forgot Password
 </tr>
 <tr><td align="left" >
 If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
 </td>
 </tr>
 <tr><td align="left" >
@@ -290,6 +305,10 @@ Yearly
 </tr>
 <tr><td align="left" >
 You are logged in!
+</td>
+</tr>
+<tr><td align="left" >
+Your email address is unverified.
 </td>
 </tr>
 

@@ -13,8 +13,7 @@ editLink: false
 
 <table >
 <tr><td align="left" >
-If you're having trouble clicking the ":actionText" button, copy and paste the URL below
-into your web browser:
+Your email address is unverified.
 </td>
 </tr>
 
