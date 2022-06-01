@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Ова поле мора да биде прифатено.',
-    'accepted_if'          => 'This field must be accepted when :other is :value.',
+    'accepted_if'          => 'Ова поле мора да биде прифатено кога :other е со вредност :value.',
     'active_url'           => 'Ова не е валидна URL-адреса.',
     'after'                => 'Ова мора да биде датум после :date.',
     'after_or_equal'       => 'Ова мора да биде датум кој е после или еднаков на :date.',
@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => 'Ова поле мора да има вредност вистинито (true) или невистинито (false).',
     'confirmed'            => 'Ова поле не е потврдено.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Лознинката е погрешна.',
     'date'                 => 'Ова не е валиден датум.',
     'date_equals'          => 'Ова мора да биде датум еднаков на :date.',
     'date_format'          => 'Oва не одговара на форматот :format.',

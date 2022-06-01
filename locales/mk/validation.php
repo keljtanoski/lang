@@ -13,7 +13,7 @@
 
 return [
     'accepted'             => 'Полето :attribute мора да биде прифатено.',
-    'accepted_if'          => 'The :attribute must be accepted when :other is :value.',
+    'accepted_if'          => 'Полето :attribute мода да биде прифатено кога :other е со вредност :value.',
     'active_url'           => 'Полето :attribute не е валиден URL.',
     'after'                => 'Полето :attribute мора да биде датум после :date.',
     'after_or_equal'       => 'Полето :attribute мора да биде датум кој е после или еднаков на :date.',
@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => 'Полето :attribute мора да има вредност вистинито (true) или невистинито (false).',
     'confirmed'            => 'Полето :attribute не е потврдено.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Лозинката е погрешна.',
     'date'                 => 'Полето :attribute не е валиден датум.',
     'date_equals'          => 'Полето :attribute мора да биде датум еднаков на :date.',
     'date_format'          => 'Полето :attribute не одговара на форматот :format.',
