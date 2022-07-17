@@ -4,143 +4,215 @@ editLink: false
 
 # nl
 
-##### All missed: 32
+##### All missed: 21
 
 
-### [nl](https://github.com/Laravel-Lang/lang/blob/main/locales/nl/nl.json)
+### json
 
-##### Missing: 32
+##### Missing: 15
 
-<table >
-<tr><td align="left" >
-A new verification link has been sent to the email address you provided in your profile settings.
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-An error occurred while uploading the file.
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to log out?
-</td>
-</tr>
-<tr><td align="left" >
-Are you sure you want to stop impersonating?
-</td>
-</tr>
-<tr><td align="left" >
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-</td>
-</tr>
-<tr><td align="left" >
-Click here to re-send the verification email.
-</td>
-</tr>
-<tr><td align="left" >
-Dark
-</td>
-</tr>
-<tr><td align="left" >
-E-Mail Address
-</td>
-</tr>
-<tr><td align="left" >
-Edit Profile
-</td>
-</tr>
-<tr><td align="left" >
-Error
-</td>
-</tr>
-<tr><td align="left" >
-Finish enabling two factor authentication.
-</td>
-</tr>
-<tr><td align="left" >
-Forgot Password
-</td>
-</tr>
-<tr><td align="left" >
-Impersonate
-</td>
-</tr>
-<tr><td align="left" >
-Light
-</td>
-</tr>
-<tr><td align="left" >
-Log In
-</td>
-</tr>
-<tr><td align="left" >
-Previewing
-</td>
-</tr>
-<tr><td align="left" >
-Replicate
-</td>
-</tr>
-<tr><td align="left" >
-Resource Row Dropdown
-</td>
-</tr>
-<tr><td align="left" >
-Setup Key
-</td>
-</tr>
-<tr><td align="left" >
-Stop Impersonating
-</td>
-</tr>
-<tr><td align="left" >
-System
-</td>
-</tr>
-<tr><td align="left" >
-The resource was attached!
-</td>
-</tr>
-<tr><td align="left" >
-The resource was prevented from being saved!
-</td>
-</tr>
-<tr><td align="left" >
-There are no fields to display.
-</td>
-</tr>
-<tr><td align="left" >
-There are no new notifications.
-</td>
-</tr>
-<tr><td align="left" >
-There was a problem fetching the resource.
-</td>
-</tr>
-<tr><td align="left" >
-This copy of Nova is unlicensed.
-</td>
-</tr>
-<tr><td align="left" >
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-</td>
-</tr>
-<tr><td align="left" >
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-</td>
-</tr>
-<tr><td align="left" >
-We have emailed your password reset link!
-</td>
-</tr>
-<tr><td align="left" >
-Your email address is unverified.
-</td>
-</tr>
+<table width="100%">
+<tr><td width="50%">
 
+Are you sure you want to delete this notification?
+
+</td><td width="50%">
+
+Are you sure you want to delete this notification?
+
+</td></tr>
+<tr><td width="50%">
+
+Copy to clipboard
+
+</td><td width="50%">
+
+Copy to clipboard
+
+</td></tr>
+<tr><td width="50%">
+
+If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+
+</td><td width="50%">
+
+If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+
+</td></tr>
+<tr><td width="50%">
+
+Iran, Islamic Republic Of
+
+</td><td width="50%">
+
+Iran
+
+</td></tr>
+<tr><td width="50%">
+
+Logout Other Browser Sessions
+
+</td><td width="50%">
+
+Logout Other Browser Sessions
+
+</td></tr>
+<tr><td width="50%">
+
+Manage and logout your active sessions on other browsers and devices.
+
+</td><td width="50%">
+
+Manage and logout your active sessions on other browsers and devices.
+
+</td></tr>
+<tr><td width="50%">
+
+Mark all as Read
+
+</td><td width="50%">
+
+Mark all as Read
+
+</td></tr>
+<tr><td width="50%">
+
+Nevermind
+
+</td><td width="50%">
+
+Nevermind
+
+</td></tr>
+<tr><td width="50%">
+
+Notifications
+
+</td><td width="50%">
+
+Notifications
+
+</td></tr>
+<tr><td width="50%">
+
+Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+
+</td><td width="50%">
+
+Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+
+</td></tr>
+<tr><td width="50%">
+
+Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td><td width="50%">
+
+Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Barthelemy
+
+</td><td width="50%">
+
+St. Barthélemy
+
+</td></tr>
+<tr><td width="50%">
+
+Saint Martin
+
+</td><td width="50%">
+
+St. Martin
+
+</td></tr>
+<tr><td width="50%">
+
+Sint Maarten (Dutch part)
+
+</td><td width="50%">
+
+Sint Maarten
+
+</td></tr>
+<tr><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td><td width="50%">
+
+Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
 </table>
 
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 6
+
+<table width="100%">
+<tr><td width="50%">
+
+doesnt_start_with
+
+</td><td width="50%">
+
+The :attribute may not start with one of the following: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+password.letters
+
+</td><td width="50%">
+
+The :attribute must contain at least one letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.mixed
+
+</td><td width="50%">
+
+The :attribute must contain at least one uppercase and one lowercase letter.
+
+</td></tr>
+<tr><td width="50%">
+
+password.numbers
+
+</td><td width="50%">
+
+The :attribute must contain at least one number.
+
+</td></tr>
+<tr><td width="50%">
+
+password.symbols
+
+</td><td width="50%">
+
+The :attribute must contain at least one symbol.
+
+</td></tr>
+<tr><td width="50%">
+
+password.uncompromised
+
+</td><td width="50%">
+
+The given :attribute has appeared in a data leak. Please choose a different :attribute.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
 

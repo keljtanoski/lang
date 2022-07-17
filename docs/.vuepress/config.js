@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const { viteBundler, defaultTheme } = require('vuepress')
+const { viteBundler, defaultTheme } = require('vuepress');
 
 require('dotenv').config();
 
@@ -36,7 +36,7 @@ module.exports = {
 
         navbar: [
             { text: 'Translations Status', link: '/status.md' },
-            { text: '10.x', link: '/changelog/10.x.md' }
+            { text: '11.x', link: '/changelog/11.x.md' }
         ],
 
         sidebarDepth: 1,
@@ -141,4 +141,3 @@ function resolveNumeric(value) {
 
     return isNaN(num) ? value : num;
 }
-
