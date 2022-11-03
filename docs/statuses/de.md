@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 12
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,65 +23,83 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Choose Files
 
 </td><td width="50%">
 
-(and :count more error)
+Choose Files
 
 </td></tr>
 <tr><td width="50%">
 
-(and :count more errors)
+Drop file or click to choose
 
 </td><td width="50%">
 
-(and :count more errors)
+Drop file or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-From
+Drop files or click to choose
 
 </td><td width="50%">
 
-From
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+Filename
 
 </td><td width="50%">
 
-The action was executed successfully.
+Filename
 
 </td></tr>
 <tr><td width="50%">
 
-The given data was invalid.
+Select All Dropdown
 
 </td><td width="50%">
 
-The given data was invalid.
+Select All Dropdown
 
 </td></tr>
 <tr><td width="50%">
 
-The provided two factor recovery code was invalid.
+Select this page
 
 </td><td width="50%">
 
-The provided two factor recovery code was invalid.
+Select this page
 
 </td></tr>
 <tr><td width="50%">
 
-To
+The image could not be loaded
 
 </td><td width="50%">
 
-To
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
 
 </td></tr>
 </table>
@@ -92,7 +110,7 @@ To
 
 ### php-inline
 
-##### Missing: 3
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -106,29 +124,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+required_if_accepted
 
 </td><td width="50%">
 
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
+This field is required when :other is accepted.
 
 </td></tr>
 </table>
@@ -139,7 +139,7 @@ This field must have at least :min digits.
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -153,20 +153,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-max_digits
+required_if_accepted
 
 </td><td width="50%">
 
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

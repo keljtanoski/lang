@@ -4,7 +4,7 @@ editLink: false
 
 # bs
 
-##### All missed: 228
+##### All missed: 238
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 185
+##### Missing: 193
 
 <table width="100%">
 <tr><th width="50%">
@@ -385,6 +385,15 @@ Change Subscription Plan
 </td></tr>
 <tr><td width="50%">
 
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
 City
 
 </td><td width="50%">
@@ -502,11 +511,20 @@ Download Receipt
 </td></tr>
 <tr><td width="50%">
 
-E-Mail Address
+Drop file or click to choose
 
 </td><td width="50%">
 
-E-Mail Address
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
@@ -561,6 +579,15 @@ Failed to load :resource!
 </td><td width="50%">
 
 Failed to load :resource!
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -1150,6 +1177,24 @@ Select a log file...
 </td></tr>
 <tr><td width="50%">
 
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
+
+</td></tr>
+<tr><td width="50%">
+
 Setup Key
 
 </td><td width="50%">
@@ -1375,6 +1420,15 @@ The given data was invalid.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -1600,11 +1654,29 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td></tr>
 <tr><td width="50%">
 
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+<tr><td width="50%">
+
 United States Minor Outlying Islands
 
 </td><td width="50%">
 
 United States Minor Outlying Islands
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
 
 </td></tr>
 <tr><td width="50%">
@@ -1840,7 +1912,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -1960,6 +2032,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -1968,7 +2049,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -2131,6 +2212,15 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

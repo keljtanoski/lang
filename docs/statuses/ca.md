@@ -4,7 +4,7 @@ editLink: false
 
 # ca
 
-##### All missed: 79
+##### All missed: 80
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 36
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -169,74 +169,38 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Choose Files
 
 </td><td width="50%">
 
-(and :count more error)
+Choose Files
 
 </td></tr>
 <tr><td width="50%">
 
-(and :count more errors)
+Dominica
 
 </td><td width="50%">
 
-(and :count more errors)
+Dominica
 
 </td></tr>
 <tr><td width="50%">
 
-A new verification link has been sent to the email address you provided in your profile settings.
+Drop file or click to choose
 
 </td><td width="50%">
 
-A new verification link has been sent to the email address you provided in your profile settings.
+Drop file or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-A new verification link has been sent to your email address.
+Drop files or click to choose
 
 </td><td width="50%">
 
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-Copy to clipboard
-
-</td><td width="50%">
-
-Copy to clipboard
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
@@ -250,20 +214,11 @@ Edit Profile
 </td></tr>
 <tr><td width="50%">
 
-From
+Filename
 
 </td><td width="50%">
 
-From
-
-</td></tr>
-<tr><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -331,15 +286,6 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
-Oh no
-
-</td><td width="50%">
-
-Oh no
-
-</td></tr>
-<tr><td width="50%">
-
 Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
 
 </td><td width="50%">
@@ -399,6 +345,24 @@ Select a log file...
 </td><td width="50%">
 
 Select a log file...
+
+</td></tr>
+<tr><td width="50%">
+
+Select All Dropdown
+
+</td><td width="50%">
+
+Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Select this page
+
+</td><td width="50%">
+
+Select this page
 
 </td></tr>
 <tr><td width="50%">
@@ -448,6 +412,15 @@ The given data was invalid.
 </td></tr>
 <tr><td width="50%">
 
+The image could not be loaded
+
+</td><td width="50%">
+
+The image could not be loaded
+
+</td></tr>
+<tr><td width="50%">
+
 The provided two factor recovery code was invalid.
 
 </td><td width="50%">
@@ -480,6 +453,24 @@ Two factor authentication is now enabled. Scan the following QR code using your 
 </td><td width="50%">
 
 Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+
+</td></tr>
+<tr><td width="50%">
+
+Type
+
+</td><td width="50%">
+
+Type
+
+</td></tr>
+<tr><td width="50%">
+
+Unknown
+
+</td><td width="50%">
+
+Unknown
 
 </td></tr>
 <tr><td width="50%">
@@ -499,7 +490,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -619,6 +610,15 @@ required_array_keys
 This field must contain entries for: :values.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -627,7 +627,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -790,6 +790,15 @@ required_array_keys
 </td><td width="50%">
 
 The :attribute field must contain entries for: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>

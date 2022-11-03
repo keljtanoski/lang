@@ -23,38 +23,38 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Choose Files
 
 </td><td width="50%">
 
-(and :count more error)
+Choose Files
 
 </td></tr>
 <tr><td width="50%">
 
-(and :count more errors)
+Drop file or click to choose
 
 </td><td width="50%">
 
-(and :count more errors)
+Drop file or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-Sint Maarten (Dutch part)
+Drop files or click to choose
 
 </td><td width="50%">
 
-Sint Maarten
+Drop files or click to choose
 
 </td></tr>
 <tr><td width="50%">
 
-The given data was invalid.
+Select All Dropdown
 
 </td><td width="50%">
 
-The given data was invalid.
+Select All Dropdown
 
 </td></tr>
 </table>

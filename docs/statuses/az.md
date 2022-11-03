@@ -4,12 +4,12 @@ editLink: false
 
 # az
 
-##### All missed: 78
+##### All missed: 46
 
 
 ### json
 
-##### Missing: 74
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
 Andorra
 
 </td><td width="50%">
 
 Andorra
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
 
 </td></tr>
 <tr><td width="50%">
@@ -118,15 +91,6 @@ Cape Verde
 </td><td width="50%">
 
 Cape Verde
-
-</td></tr>
-<tr><td width="50%">
-
-Copy to clipboard
-
-</td><td width="50%">
-
-Copy to clipboard
 
 </td></tr>
 <tr><td width="50%">
@@ -149,15 +113,6 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
 Fiji
 
 </td><td width="50%">
@@ -212,15 +167,6 @@ Honduras
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td></tr>
-<tr><td width="50%">
-
 Jane Doe
 
 </td><td width="50%">
@@ -257,56 +203,11 @@ Lesotho
 </td></tr>
 <tr><td width="50%">
 
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
-Logout Other Browser Sessions
-
-</td><td width="50%">
-
-Logout Other Browser Sessions
-
-</td></tr>
-<tr><td width="50%">
-
-Logs
-
-</td><td width="50%">
-
-Logs
-
-</td></tr>
-<tr><td width="50%">
-
 Malta
 
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Manage and logout your active sessions on other browsers and devices.
-
-</td><td width="50%">
-
-Manage and logout your active sessions on other browsers and devices.
-
-</td></tr>
-<tr><td width="50%">
-
-Mark all as Read
-
-</td><td width="50%">
-
-Mark all as Read
 
 </td></tr>
 <tr><td width="50%">
@@ -356,24 +257,6 @@ Nepal
 </td></tr>
 <tr><td width="50%">
 
-Netherlands Antilles
-
-</td><td width="50%">
-
-Netherlands Antilles
-
-</td></tr>
-<tr><td width="50%">
-
-Nevermind
-
-</td><td width="50%">
-
-Nevermind
-
-</td></tr>
-<tr><td width="50%">
-
 Niger
 
 </td><td width="50%">
@@ -388,15 +271,6 @@ Niue
 </td><td width="50%">
 
 Niue
-
-</td></tr>
-<tr><td width="50%">
-
-Notifications
-
-</td><td width="50%">
-
-Notifications
 
 </td></tr>
 <tr><td width="50%">
@@ -446,42 +320,6 @@ Peru
 </td></tr>
 <tr><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td><td width="50%">
-
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td></tr>
-<tr><td width="50%">
-
-Previewing
-
-</td><td width="50%">
-
-Previewing
-
-</td></tr>
-<tr><td width="50%">
-
-Refresh
-
-</td><td width="50%">
-
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
 Rwanda
 
 </td><td width="50%">
@@ -527,60 +365,6 @@ Samoa
 </td></tr>
 <tr><td width="50%">
 
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
@@ -608,24 +392,6 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
 Timor-Leste
 
 </td><td width="50%">
@@ -644,15 +410,6 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Total:
-
-</td><td width="50%">
-
-Total:
-
-</td></tr>
-<tr><td width="50%">
-
 Tuvalu
 
 </td><td width="50%">
@@ -662,11 +419,11 @@ Tuvalu
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Unknown
 
 </td><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Unknown
 
 </td></tr>
 <tr><td width="50%">
@@ -676,91 +433,6 @@ Vanuatu
 </td><td width="50%">
 
 Vanuatu
-
-</td></tr>
-<tr><td width="50%">
-
-Yearly
-
-</td><td width="50%">
-
-Yearly
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
 
 </td></tr>
 </table>

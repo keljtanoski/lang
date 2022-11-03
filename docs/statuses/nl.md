@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 28
+##### All missed: 29
 
 
 ### json
 
-##### Missing: 16
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,42 @@ Value
 </td><td width="50%">
 
 (and :count more errors)
+
+</td></tr>
+<tr><td width="50%">
+
+Choose Files
+
+</td><td width="50%">
+
+Choose Files
+
+</td></tr>
+<tr><td width="50%">
+
+Drop file or click to choose
+
+</td><td width="50%">
+
+Drop file or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Drop files or click to choose
+
+</td><td width="50%">
+
+Drop files or click to choose
+
+</td></tr>
+<tr><td width="50%">
+
+Filename
+
+</td><td width="50%">
+
+Filename
 
 </td></tr>
 <tr><td width="50%">
@@ -77,38 +113,11 @@ Logs
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Select All Dropdown
 
 </td><td width="50%">
 
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
+Select All Dropdown
 
 </td></tr>
 <tr><td width="50%">
@@ -131,38 +140,20 @@ Stop polling
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+Type
 
 </td><td width="50%">
 
-The action was executed successfully.
+Type
 
 </td></tr>
 <tr><td width="50%">
 
-The given data was invalid.
+Unknown
 
 </td><td width="50%">
 
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
+Unknown
 
 </td></tr>
 </table>
@@ -173,7 +164,7 @@ To
 
 ### php-inline
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -266,6 +257,15 @@ password.uncompromised
 The given field has appeared in a data leak. Please choose a different field.
 
 </td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+This field is required when :other is accepted.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -274,7 +274,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### php
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -311,6 +311,15 @@ min_digits
 </td><td width="50%">
 
 The :attribute must have at least :min digits.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is required when :other is accepted.
 
 </td></tr>
 </table>
