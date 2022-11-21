@@ -4,7 +4,7 @@ editLink: false
 
 # lt
 
-##### All missed: 252
+##### All missed: 257
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 220
+##### Missing: 223
 
 <table width="100%">
 <tr><th width="50%">
@@ -1033,6 +1033,15 @@ Nova User
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
 
 </td><td width="50%">
@@ -1402,6 +1411,15 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
 South Georgia and the South Sandwich Islands
 
 </td><td width="50%">
@@ -2073,6 +2091,15 @@ You may cancel your subscription at any time. Once your subscription has been ca
 </td><td width="50%">
 
 You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">
@@ -2155,7 +2182,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 14
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -2293,6 +2320,15 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -2301,7 +2337,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 4
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -2347,6 +2383,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

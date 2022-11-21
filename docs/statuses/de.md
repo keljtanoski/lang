@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 13
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,83 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Choose Files
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
 
-Choose Files
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td></tr>
 <tr><td width="50%">
 
-Drop file or click to choose
+Soft Deleted
 
 </td><td width="50%">
 
-Drop file or click to choose
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
 
-Drop files or click to choose
+You're logged in!
 
 </td><td width="50%">
 
-Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Filename
-
-</td><td width="50%">
-
-Filename
-
-</td></tr>
-<tr><td width="50%">
-
-Select All Dropdown
-
-</td><td width="50%">
-
-Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select this page
-
-</td><td width="50%">
-
-Select this page
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
-
-</td></tr>
-<tr><td width="50%">
-
-Type
-
-</td><td width="50%">
-
-Type
-
-</td></tr>
-<tr><td width="50%">
-
-Unknown
-
-</td><td width="50%">
-
-Unknown
+You're logged in!
 
 </td></tr>
 </table>
@@ -110,7 +56,7 @@ Unknown
 
 ### php-inline
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -124,20 +70,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-lowercase
+uppercase
 
 </td><td width="50%">
 
-This field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
+This field must be uppercase.
 
 </td></tr>
 </table>
@@ -148,7 +85,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -162,20 +99,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-lowercase
+uppercase
 
 </td><td width="50%">
 
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

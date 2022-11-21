@@ -4,7 +4,7 @@ editLink: false
 
 # ug
 
-##### All missed: 853
+##### All missed: 858
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 762
+##### Missing: 765
 
 <table width="100%">
 <tr><th width="50%">
@@ -3969,6 +3969,15 @@ Once your account is deleted, all of its resources and data will be permanently 
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Only Trashed
 
 </td><td width="50%">
@@ -5144,6 +5153,15 @@ Slovenia
 </td><td width="50%">
 
 Slovenia
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -6939,6 +6957,15 @@ You may not leave a team that you created.
 </td></tr>
 <tr><td width="50%">
 
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
+
+</td></tr>
+<tr><td width="50%">
+
 Your :invoiceName invoice is now available!
 
 </td><td width="50%">
@@ -7035,7 +7062,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 35
+##### Missing: 36
 
 <table width="100%">
 <tr><th width="50%">
@@ -7362,6 +7389,15 @@ required_without_all
 This field is required when none of :values are present.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -7370,7 +7406,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 42
+##### Missing: 43
 
 <table width="100%">
 <tr><th width="50%">
@@ -7749,6 +7785,15 @@ throttled
 </td><td width="50%">
 
 Please wait before retrying.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 <tr><td width="50%">

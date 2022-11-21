@@ -4,7 +4,7 @@ editLink: false
 
 # mr
 
-##### All missed: 120
+##### All missed: 125
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 76
+##### Missing: 79
 
 <table width="100%">
 <tr><th width="50%">
@@ -502,6 +502,15 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Please confirm your password before continuing.
 
 </td><td width="50%">
@@ -615,6 +624,15 @@ Setup Key
 </td><td width="50%">
 
 Setup Key
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -840,6 +858,15 @@ You are logged in!
 </td><td width="50%">
 
 You are logged in!
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 <tr><td width="50%">
@@ -859,7 +886,7 @@ Your email address is unverified.
 
 ### php-inline
 
-##### Missing: 13
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -988,6 +1015,15 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -996,7 +1032,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 17
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -1159,6 +1195,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

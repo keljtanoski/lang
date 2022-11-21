@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 31
+##### All missed: 36
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,11 +113,29 @@ Logs
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Select All Dropdown
 
 </td><td width="50%">
 
 Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
 
 </td></tr>
 <tr><td width="50%">
@@ -154,6 +172,15 @@ Unknown
 </td><td width="50%">
 
 Unknown
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 </table>
@@ -164,7 +191,7 @@ Unknown
 
 ### php-inline
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -275,6 +302,15 @@ required_if_accepted
 This field is required when :other is accepted.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -283,7 +319,7 @@ This field is required when :other is accepted.
 
 ### php
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -338,6 +374,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>

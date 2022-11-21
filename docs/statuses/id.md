@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 6
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,11 +50,38 @@ Drop files or click to choose
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Select All Dropdown
 
 </td><td width="50%">
 
 Select All Dropdown
+
+</td></tr>
+<tr><td width="50%">
+
+Soft Deleted
+
+</td><td width="50%">
+
+Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
+You're logged in!
+
+</td><td width="50%">
+
+You're logged in!
 
 </td></tr>
 </table>
@@ -65,7 +92,7 @@ Select All Dropdown
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,6 +113,15 @@ lowercase
 This field must be lowercase.
 
 </td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+This field must be uppercase.
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -94,7 +130,7 @@ This field must be lowercase.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,6 +149,15 @@ lowercase
 </td><td width="50%">
 
 The :attribute must be lowercase.
+
+</td></tr>
+<tr><td width="50%">
+
+uppercase
+
+</td><td width="50%">
+
+The :attribute must be uppercase.
 
 </td></tr>
 </table>
