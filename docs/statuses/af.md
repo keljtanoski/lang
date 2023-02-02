@@ -4,158 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 217
-
-
-### json-inline
-
-##### Missing: 14
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-The :attribute must be a valid role.
-
-</td><td width="50%">
-
-This field must be a valid role.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters.
-
-</td><td width="50%">
-
-This field must be at least :length characters.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 59
 
 
 ### json
 
-##### Missing: 168
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,51 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-(and :count more error)
-
-</td><td width="50%">
-
-(and :count more error)
-
-</td></tr>
-<tr><td width="50%">
-
-(and :count more errors)
-
-</td><td width="50%">
-
-(and :count more errors)
-
-</td></tr>
-<tr><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A fresh verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
 <tr><td width="50%">
 
 Action Status
@@ -223,416 +32,155 @@ Status
 </td></tr>
 <tr><td width="50%">
 
-Add VAT Number
+Alabama
 
 </td><td width="50%">
 
-Add VAT Number
+Alabama
 
 </td></tr>
 <tr><td width="50%">
 
-Address
+Alaska
 
 </td><td width="50%">
 
-Address
+Alaska
 
 </td></tr>
 <tr><td width="50%">
 
-Address Line 2
+Alberta
 
 </td><td width="50%">
 
-Address Line 2
+Alberta
 
 </td></tr>
 <tr><td width="50%">
 
-An error occurred while uploading the file.
+API
 
 </td><td width="50%">
 
-An error occurred while uploading the file.
+API
 
 </td></tr>
 <tr><td width="50%">
 
-An unexpected error occurred and we have notified our support team. Please try again later.
+Arizona
 
 </td><td width="50%">
 
-An unexpected error occurred and we have notified our support team. Please try again later.
+Arizona
 
 </td></tr>
 <tr><td width="50%">
 
-Apply
+Arkansas
 
 </td><td width="50%">
 
-Apply
+Arkansas
 
 </td></tr>
 <tr><td width="50%">
 
-Apply Coupon
+British Columbia
 
 </td><td width="50%">
 
-Apply Coupon
+British Columbia
 
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete this notification?
+Colorado
 
 </td><td width="50%">
 
-Are you sure you want to delete this notification?
+Colorado
 
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to log out?
+Connecticut
 
 </td><td width="50%">
 
-Are you sure you want to log out?
+Connecticut
 
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to stop impersonating?
+Delaware
 
 </td><td width="50%">
 
-Are you sure you want to stop impersonating?
+Delaware
 
 </td></tr>
 <tr><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+Florida
 
 </td><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+Florida
 
 </td></tr>
 <tr><td width="50%">
 
-Before proceeding, please check your email for a verification link.
+Hawaii
 
 </td><td width="50%">
 
-Before proceeding, please check your email for a verification link.
+Hawaii
 
 </td></tr>
 <tr><td width="50%">
 
-Billing Information
+Hi!
 
 </td><td width="50%">
 
-Billing Information
+Hi!
 
 </td></tr>
 <tr><td width="50%">
 
-Billing Management
+Idaho
 
 </td><td width="50%">
 
-Billing Management
+Idaho
 
 </td></tr>
 <tr><td width="50%">
 
-Cancel Subscription
+Illinois
 
 </td><td width="50%">
 
-Cancel Subscription
+Illinois
 
 </td></tr>
 <tr><td width="50%">
 
-Change Subscription Plan
+Indiana
 
 </td><td width="50%">
 
-Change Subscription Plan
+Indiana
 
 </td></tr>
 <tr><td width="50%">
 
-Choose Files
+Iowa
 
 </td><td width="50%">
 
-Choose Files
-
-</td></tr>
-<tr><td width="50%">
-
-City
-
-</td><td width="50%">
-
-City
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-click here to request another
-
-</td><td width="50%">
-
-click here to request another
-
-</td></tr>
-<tr><td width="50%">
-
-Copy to clipboard
-
-</td><td width="50%">
-
-Copy to clipboard
-
-</td></tr>
-<tr><td width="50%">
-
-Country
-
-</td><td width="50%">
-
-Country
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon
-
-</td><td width="50%">
-
-Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-Current Subscription Plan
-
-</td><td width="50%">
-
-Current Subscription Plan
-
-</td></tr>
-<tr><td width="50%">
-
-Currently Subscribed
-
-</td><td width="50%">
-
-Currently Subscribed
-
-</td></tr>
-<tr><td width="50%">
-
-Dark
-
-</td><td width="50%">
-
-Dark
-
-</td></tr>
-<tr><td width="50%">
-
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-Drop file or click to choose
-
-</td><td width="50%">
-
-Drop file or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Drop files or click to choose
-
-</td><td width="50%">
-
-Drop files or click to choose
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Profile
-
-</td><td width="50%">
-
-Edit Profile
-
-</td></tr>
-<tr><td width="50%">
-
-Email Addresses
-
-</td><td width="50%">
-
-Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Error
-
-</td><td width="50%">
-
-Error
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Extra Billing Information
-
-</td><td width="50%">
-
-Extra Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
-Failed to load :resource!
-
-</td><td width="50%">
-
-Failed to load :resource!
-
-</td></tr>
-<tr><td width="50%">
-
-Filename
-
-</td><td width="50%">
-
-Filename
-
-</td></tr>
-<tr><td width="50%">
-
-Finish enabling two factor authentication.
-
-</td><td width="50%">
-
-Finish enabling two factor authentication.
-
-</td></tr>
-<tr><td width="50%">
-
-Forgot Password
-
-</td><td width="50%">
-
-Forgot Password
-
-</td></tr>
-<tr><td width="50%">
-
-From
-
-</td><td width="50%">
-
-From
-
-</td></tr>
-<tr><td width="50%">
-
-Have a coupon code?
-
-</td><td width="50%">
-
-Have a coupon code?
-
-</td></tr>
-<tr><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td></tr>
-<tr><td width="50%">
-
-I accept the terms of service
-
-</td><td width="50%">
-
-I accept the terms of service
-
-</td></tr>
-<tr><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td><td width="50%">
-
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
-
-</td></tr>
-<tr><td width="50%">
-
-If you did not receive the email
-
-</td><td width="50%">
-
-If you did not receive the email
-
-</td></tr>
-<tr><td width="50%">
-
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td><td width="50%">
-
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonate
-
-</td><td width="50%">
-
-Impersonate
+Iowa
 
 </td></tr>
 <tr><td width="50%">
@@ -646,15 +194,6 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-
-</td><td width="50%">
-
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-
-</td></tr>
-<tr><td width="50%">
-
 Jane Doe
 
 </td><td width="50%">
@@ -664,20 +203,29 @@ Jane Doe
 </td></tr>
 <tr><td width="50%">
 
-Light
+Kansas
 
 </td><td width="50%">
 
-Light
+Kansas
 
 </td></tr>
 <tr><td width="50%">
 
-Log In
+Kentucky
 
 </td><td width="50%">
 
-Log In
+Kentucky
+
+</td></tr>
+<tr><td width="50%">
+
+Kiosk
+
+</td><td width="50%">
+
+Kiosk
 
 </td></tr>
 <tr><td width="50%">
@@ -691,15 +239,6 @@ Log Viewer
 </td></tr>
 <tr><td width="50%">
 
-Logout Other Browser Sessions
-
-</td><td width="50%">
-
-Logout Other Browser Sessions
-
-</td></tr>
-<tr><td width="50%">
-
 Logs
 
 </td><td width="50%">
@@ -709,326 +248,218 @@ Logs
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Louisiana
 
 </td><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Louisiana
 
 </td></tr>
 <tr><td width="50%">
 
-Managing billing for :billableName
+Maine
 
 </td><td width="50%">
 
-Managing billing for :billableName
+Maine
 
 </td></tr>
 <tr><td width="50%">
 
-Mark all as Read
+Manitoba
 
 </td><td width="50%">
 
-Mark all as Read
+Manitoba
 
 </td></tr>
 <tr><td width="50%">
 
-Micronesia, Federated States of
+Maryland
 
 </td><td width="50%">
 
-Micronesia, Federated States of
+Maryland
 
 </td></tr>
 <tr><td width="50%">
 
-Monthly
+Massachusetts
 
 </td><td width="50%">
 
-Monthly
+Massachusetts
 
 </td></tr>
 <tr><td width="50%">
 
-monthly
+Michigan
 
 </td><td width="50%">
 
-monthly
+Michigan
 
 </td></tr>
 <tr><td width="50%">
 
-Netherlands Antilles
+Minnesota
 
 </td><td width="50%">
 
-Netherlands Antilles
+Minnesota
 
 </td></tr>
 <tr><td width="50%">
 
-Nevermind
+Mississippi
 
 </td><td width="50%">
 
-Nevermind
+Mississippi
 
 </td></tr>
 <tr><td width="50%">
 
-Nevermind, I'll keep my old plan
+Missouri
 
 </td><td width="50%">
 
-Nevermind, I'll keep my old plan
+Missouri
 
 </td></tr>
 <tr><td width="50%">
 
-Notifications
+Montana
 
 </td><td width="50%">
 
-Notifications
+Montana
 
 </td></tr>
 <tr><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+Nebraska
 
 </td><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+Nebraska
 
 </td></tr>
 <tr><td width="50%">
 
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+Nevada
 
 </td><td width="50%">
 
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+Nevada
 
 </td></tr>
 <tr><td width="50%">
 
-Payment Information
+New Hampshire
 
 </td><td width="50%">
 
-Payment Information
+New Hampshire
 
 </td></tr>
 <tr><td width="50%">
 
-Payment Method
+New Jersey
 
 </td><td width="50%">
 
-Payment Method
+New Jersey
 
 </td></tr>
 <tr><td width="50%">
 
-Please accept the terms of service.
+New Mexico
 
 </td><td width="50%">
 
-Please accept the terms of service.
+New Mexico
 
 </td></tr>
 <tr><td width="50%">
 
-Please confirm your password before continuing.
+New York
 
 </td><td width="50%">
 
-Please confirm your password before continuing.
+New York
 
 </td></tr>
 <tr><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+Nova Scotia
 
 </td><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+Nova Scotia
 
 </td></tr>
 <tr><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Nunavut
 
 </td><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Nunavut
 
 </td></tr>
 <tr><td width="50%">
 
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+Ohio
 
 </td><td width="50%">
 
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+Ohio
 
 </td></tr>
 <tr><td width="50%">
 
-Previewing
+Oklahoma
 
 </td><td width="50%">
 
-Previewing
+Oklahoma
 
 </td></tr>
 <tr><td width="50%">
 
-Receipt Email Addresses
+Ontario
 
 </td><td width="50%">
 
-Receipt Email Addresses
+Ontario
 
 </td></tr>
 <tr><td width="50%">
 
-Receipts
+Oregon
 
 </td><td width="50%">
 
-Receipts
+Oregon
 
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Quebec
 
 </td><td width="50%">
 
-Refresh
+Quebec
 
 </td></tr>
 <tr><td width="50%">
 
-Replicate
+Saskatchewan
 
 </td><td width="50%">
 
-Replicate
-
-</td></tr>
-<tr><td width="50%">
-
-Resource Row Dropdown
-
-</td><td width="50%">
-
-Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Resume Subscription
-
-</td><td width="50%">
-
-Resume Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Return to :appName
-
-</td><td width="50%">
-
-Return to :appName
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select
-
-</td><td width="50%">
-
-Select
-
-</td></tr>
-<tr><td width="50%">
-
-Select a different plan
-
-</td><td width="50%">
-
-Select a different plan
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
-
-</td></tr>
-<tr><td width="50%">
-
-Select All Dropdown
-
-</td><td width="50%">
-
-Select All Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Select this page
-
-</td><td width="50%">
-
-Select this page
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
-
-</td></tr>
-<tr><td width="50%">
-
-Signed in as
-
-</td><td width="50%">
-
-Signed in as
+Saskatchewan
 
 </td></tr>
 <tr><td width="50%">
@@ -1042,996 +473,83 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
-Soft Deleted
+Tennessee
 
 </td><td width="50%">
 
-Soft Deleted
+Tennessee
 
 </td></tr>
 <tr><td width="50%">
 
-Standalone Actions
+Texas
 
 </td><td width="50%">
 
-Standalone Actions
+Texas
 
 </td></tr>
 <tr><td width="50%">
 
-Start polling
+Utah
 
 </td><td width="50%">
 
-Start polling
+Utah
 
 </td></tr>
 <tr><td width="50%">
 
-State / County
+Vermont
 
 </td><td width="50%">
 
-State / County
+Vermont
 
 </td></tr>
 <tr><td width="50%">
 
-Stop Impersonating
+Virginia
 
 </td><td width="50%">
 
-Stop Impersonating
+Virginia
 
 </td></tr>
 <tr><td width="50%">
 
-Stop polling
+Washington
 
 </td><td width="50%">
 
-Stop polling
+Washington
 
 </td></tr>
 <tr><td width="50%">
 
-Subscribe
+Wisconsin
 
 </td><td width="50%">
 
-Subscribe
+Wisconsin
 
 </td></tr>
 <tr><td width="50%">
 
-Subscription Information
+Wyoming
 
 </td><td width="50%">
 
-Subscription Information
+Wyoming
 
 </td></tr>
 <tr><td width="50%">
 
-Subscription Pending
+Yukon
 
 </td><td width="50%">
 
-Subscription Pending
-
-</td></tr>
-<tr><td width="50%">
-
-Svalbard and Jan Mayen
-
-</td><td width="50%">
-
-Svalbard and Jan Mayen
-
-</td></tr>
-<tr><td width="50%">
-
-System
-
-</td><td width="50%">
-
-System
-
-</td></tr>
-<tr><td width="50%">
-
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-
-</td><td width="50%">
-
-Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns.
-
-</td></tr>
-<tr><td width="50%">
-
-Thanks,
-
-</td><td width="50%">
-
-Thanks,
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The action was executed successfully.
-
-</td><td width="50%">
-
-The action was executed successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-The given data was invalid.
-
-</td><td width="50%">
-
-The given data was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The image could not be loaded
-
-</td><td width="50%">
-
-The image could not be loaded
-
-</td></tr>
-<tr><td width="50%">
-
-The password is incorrect.
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided coupon code is invalid.
-
-</td><td width="50%">
-
-The provided coupon code is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td><td width="50%">
-
-The provided two factor recovery code was invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The provided VAT number is invalid.
-
-</td><td width="50%">
-
-The provided VAT number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was attached!
-
-</td><td width="50%">
-
-The resource was attached!
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was prevented from being saved!
-
-</td><td width="50%">
-
-The resource was prevented from being saved!
-
-</td></tr>
-<tr><td width="50%">
-
-The selected country is invalid.
-
-</td><td width="50%">
-
-The selected country is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The selected plan is invalid.
-
-</td><td width="50%">
-
-The selected plan is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no fields to display.
-
-</td><td width="50%">
-
-There are no fields to display.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no new notifications.
-
-</td><td width="50%">
-
-There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There is no active subscription.
-
-</td><td width="50%">
-
-There is no active subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-There was a problem fetching the resource.
-
-</td><td width="50%">
-
-There was a problem fetching the resource.
-
-</td></tr>
-<tr><td width="50%">
-
-This account does not have an active subscription.
-
-</td><td width="50%">
-
-This account does not have an active subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td></tr>
-<tr><td width="50%">
-
-This coupon code can only be used by new customers.
-
-</td><td width="50%">
-
-This coupon code can only be used by new customers.
-
-</td></tr>
-<tr><td width="50%">
-
-This subscription cannot be resumed. Please create a new subscription.
-
-</td><td width="50%">
-
-This subscription cannot be resumed. Please create a new subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-This subscription has expired and cannot be resumed. Please create a new subscription.
-
-</td><td width="50%">
-
-This subscription has expired and cannot be resumed. Please create a new subscription.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-<tr><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td></tr>
-<tr><td width="50%">
-
-Total:
-
-</td><td width="50%">
-
-Total:
-
-</td></tr>
-<tr><td width="50%">
-
-Trinidad and Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td></tr>
-<tr><td width="50%">
-
-Type
-
-</td><td width="50%">
-
-Type
-
-</td></tr>
-<tr><td width="50%">
-
-Unknown
-
-</td><td width="50%">
-
-Unknown
-
-</td></tr>
-<tr><td width="50%">
-
-Update Payment Information
-
-</td><td width="50%">
-
-Update Payment Information
-
-</td></tr>
-<tr><td width="50%">
-
-Update Payment Method
-
-</td><td width="50%">
-
-Update Payment Method
-
-</td></tr>
-<tr><td width="50%">
-
-VAT Number
-
-</td><td width="50%">
-
-VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Verify Your Email Address
-
-</td><td width="50%">
-
-Verify Your Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-View Receipt
-
-</td><td width="50%">
-
-View Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-
-</td><td width="50%">
-
-We are processing your subscription. Once the subscription has successfully processed, this page will update automatically. Typically, this process should only take a few seconds.
-
-</td></tr>
-<tr><td width="50%">
-
-We are unable to process your payment. Please contact customer support.
-
-</td><td width="50%">
-
-We are unable to process your payment. Please contact customer support.
-
-</td></tr>
-<tr><td width="50%">
-
-We have emailed your password reset link!
-
-</td><td width="50%">
-
-We have emailed your password reset link!
-
-</td></tr>
-<tr><td width="50%">
-
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td><td width="50%">
-
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
-
-</td></tr>
-<tr><td width="50%">
-
-Yearly
-
-</td><td width="50%">
-
-Yearly
-
-</td></tr>
-<tr><td width="50%">
-
-You are already subscribed.
-
-</td><td width="50%">
-
-You are already subscribed.
-
-</td></tr>
-<tr><td width="50%">
-
-You are currently within your free trial period. Your trial will expire on :date.
-
-</td><td width="50%">
-
-You are currently within your free trial period. Your trial will expire on :date.
-
-</td></tr>
-<tr><td width="50%">
-
-You are logged in!
-
-</td><td width="50%">
-
-You are logged in!
-
-</td></tr>
-<tr><td width="50%">
-
-You may accept this invitation by clicking the button below:
-
-</td><td width="50%">
-
-You may accept this invitation by clicking the button below:
-
-</td></tr>
-<tr><td width="50%">
-
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-
-</td><td width="50%">
-
-You may cancel your subscription at any time. Once your subscription has been cancelled, you will have the option to resume the subscription until the end of your current billing cycle.
-
-</td></tr>
-<tr><td width="50%">
-
-You're logged in!
-
-</td><td width="50%">
-
-You're logged in!
-
-</td></tr>
-<tr><td width="50%">
-
-Your :invoiceName invoice is now available!
-
-</td><td width="50%">
-
-Your :invoiceName invoice is now available!
-
-</td></tr>
-<tr><td width="50%">
-
-Your card was declined. Please contact your card issuer for more information.
-
-</td><td width="50%">
-
-Your card was declined. Please contact your card issuer for more information.
-
-</td></tr>
-<tr><td width="50%">
-
-Your current payment method is :paypal.
-
-</td><td width="50%">
-
-Your current payment method is :paypal.
-
-</td></tr>
-<tr><td width="50%">
-
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-
-</td><td width="50%">
-
-Your current payment method is a credit card ending in :lastFour that expires on :expiration.
-
-</td></tr>
-<tr><td width="50%">
-
-Your email address is unverified.
-
-</td><td width="50%">
-
-Your email address is unverified.
-
-</td></tr>
-<tr><td width="50%">
-
-Your registered VAT Number is :vatNumber.
-
-</td><td width="50%">
-
-Your registered VAT Number is :vatNumber.
-
-</td></tr>
-<tr><td width="50%">
-
-Zip / Postal Code
-
-</td><td width="50%">
-
-Zip / Postal Code
-
-</td></tr>
-<tr><td width="50%">
-
-Åland Islands
-
-</td><td width="50%">
-
-Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 15
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-This field may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-This field must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-This field must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-This field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-This field must be uppercase.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 20
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-The :attribute must be uppercase.
+Yukon
 
 </td></tr>
 </table>

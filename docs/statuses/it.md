@@ -4,12 +4,12 @@ editLink: false
 
 # it
 
-##### All missed: 26
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 20
+##### Missing: 53
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,276 +23,479 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Choose Files
+Alabama
 
 </td><td width="50%">
 
-Choose Files
+Alabama
 
 </td></tr>
 <tr><td width="50%">
 
-Drop file or click to choose
+Alaska
 
 </td><td width="50%">
 
-Drop file or click to choose
+Alaska
 
 </td></tr>
 <tr><td width="50%">
 
-Drop files or click to choose
+Alberta
 
 </td><td width="50%">
 
-Drop files or click to choose
+Alberta
 
 </td></tr>
 <tr><td width="50%">
 
-Filename
+API
 
 </td><td width="50%">
 
-Filename
+API
 
 </td></tr>
 <tr><td width="50%">
 
-From
+Arizona
 
 </td><td width="50%">
 
-From
+Arizona
 
 </td></tr>
 <tr><td width="50%">
 
-Log Viewer
+Arkansas
 
 </td><td width="50%">
 
-Log Viewer
+Arkansas
 
 </td></tr>
 <tr><td width="50%">
 
-Logs
+British Columbia
 
 </td><td width="50%">
 
-Logs
+British Columbia
 
 </td></tr>
 <tr><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+California
 
 </td><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+California
 
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Colorado
 
 </td><td width="50%">
 
-Refresh
+Colorado
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to bottom
+Connecticut
 
 </td><td width="50%">
 
-Scroll to bottom
+Connecticut
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to top
+Delaware
 
 </td><td width="50%">
 
-Scroll to top
+Delaware
 
 </td></tr>
 <tr><td width="50%">
 
-Select a log file...
+Florida
 
 </td><td width="50%">
 
-Select a log file...
+Florida
 
 </td></tr>
 <tr><td width="50%">
 
-Select All Dropdown
+Hawaii
 
 </td><td width="50%">
 
-Select All Dropdown
+Hawaii
 
 </td></tr>
 <tr><td width="50%">
 
-Select this page
+Idaho
 
 </td><td width="50%">
 
-Select this page
+Idaho
 
 </td></tr>
 <tr><td width="50%">
 
-Soft Deleted
+Illinois
 
 </td><td width="50%">
 
-Soft Deleted
+Illinois
 
 </td></tr>
 <tr><td width="50%">
 
-The image could not be loaded
+Indiana
 
 </td><td width="50%">
 
-The image could not be loaded
+Indiana
 
 </td></tr>
 <tr><td width="50%">
 
-To
+Iowa
 
 </td><td width="50%">
 
-To
+Iowa
 
 </td></tr>
 <tr><td width="50%">
 
-Type
+Kansas
 
 </td><td width="50%">
 
-Type
+Kansas
 
 </td></tr>
 <tr><td width="50%">
 
-Unknown
+Kentucky
 
 </td><td width="50%">
 
-Unknown
+Kentucky
 
 </td></tr>
 <tr><td width="50%">
 
-You're logged in!
+Louisiana
 
 </td><td width="50%">
 
-You're logged in!
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 3
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-This field must be lowercase.
+Louisiana
 
 </td></tr>
 <tr><td width="50%">
 
-required_if_accepted
+Maine
 
 </td><td width="50%">
 
-This field is required when :other is accepted.
+Maine
 
 </td></tr>
 <tr><td width="50%">
 
-uppercase
+Manitoba
 
 </td><td width="50%">
 
-This field must be uppercase.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 3
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
+Manitoba
 
 </td></tr>
 <tr><td width="50%">
 
-required_if_accepted
+Maryland
 
 </td><td width="50%">
 
-The :attribute field is required when :other is accepted.
+Maryland
 
 </td></tr>
 <tr><td width="50%">
 
-uppercase
+Massachusetts
 
 </td><td width="50%">
 
-The :attribute must be uppercase.
+Massachusetts
+
+</td></tr>
+<tr><td width="50%">
+
+Michigan
+
+</td><td width="50%">
+
+Michigan
+
+</td></tr>
+<tr><td width="50%">
+
+Minnesota
+
+</td><td width="50%">
+
+Minnesota
+
+</td></tr>
+<tr><td width="50%">
+
+Mississippi
+
+</td><td width="50%">
+
+Mississippi
+
+</td></tr>
+<tr><td width="50%">
+
+Missouri
+
+</td><td width="50%">
+
+Missouri
+
+</td></tr>
+<tr><td width="50%">
+
+mo
+
+</td><td width="50%">
+
+mo
+
+</td></tr>
+<tr><td width="50%">
+
+Montana
+
+</td><td width="50%">
+
+Montana
+
+</td></tr>
+<tr><td width="50%">
+
+Nebraska
+
+</td><td width="50%">
+
+Nebraska
+
+</td></tr>
+<tr><td width="50%">
+
+Nevada
+
+</td><td width="50%">
+
+Nevada
+
+</td></tr>
+<tr><td width="50%">
+
+New Hampshire
+
+</td><td width="50%">
+
+New Hampshire
+
+</td></tr>
+<tr><td width="50%">
+
+New Jersey
+
+</td><td width="50%">
+
+New Jersey
+
+</td></tr>
+<tr><td width="50%">
+
+New York
+
+</td><td width="50%">
+
+New York
+
+</td></tr>
+<tr><td width="50%">
+
+Nunavut
+
+</td><td width="50%">
+
+Nunavut
+
+</td></tr>
+<tr><td width="50%">
+
+Oh no!
+
+</td><td width="50%">
+
+Oh no!
+
+</td></tr>
+<tr><td width="50%">
+
+Ohio
+
+</td><td width="50%">
+
+Ohio
+
+</td></tr>
+<tr><td width="50%">
+
+Oklahoma
+
+</td><td width="50%">
+
+Oklahoma
+
+</td></tr>
+<tr><td width="50%">
+
+Ontario
+
+</td><td width="50%">
+
+Ontario
+
+</td></tr>
+<tr><td width="50%">
+
+Oregon
+
+</td><td width="50%">
+
+Oregon
+
+</td></tr>
+<tr><td width="50%">
+
+Pennsylvania
+
+</td><td width="50%">
+
+Pennsylvania
+
+</td></tr>
+<tr><td width="50%">
+
+Rhode Island
+
+</td><td width="50%">
+
+Rhode Island
+
+</td></tr>
+<tr><td width="50%">
+
+Saskatchewan
+
+</td><td width="50%">
+
+Saskatchewan
+
+</td></tr>
+<tr><td width="50%">
+
+Tennessee
+
+</td><td width="50%">
+
+Tennessee
+
+</td></tr>
+<tr><td width="50%">
+
+Texas
+
+</td><td width="50%">
+
+Texas
+
+</td></tr>
+<tr><td width="50%">
+
+Utah
+
+</td><td width="50%">
+
+Utah
+
+</td></tr>
+<tr><td width="50%">
+
+Vermont
+
+</td><td width="50%">
+
+Vermont
+
+</td></tr>
+<tr><td width="50%">
+
+Virginia
+
+</td><td width="50%">
+
+Virginia
+
+</td></tr>
+<tr><td width="50%">
+
+Washington
+
+</td><td width="50%">
+
+Washington
+
+</td></tr>
+<tr><td width="50%">
+
+Wisconsin
+
+</td><td width="50%">
+
+Wisconsin
+
+</td></tr>
+<tr><td width="50%">
+
+Wyoming
+
+</td><td width="50%">
+
+Wyoming
+
+</td></tr>
+<tr><td width="50%">
+
+Yukon
+
+</td><td width="50%">
+
+Yukon
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # bn
 
-##### All missed: 2
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,29 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Soft Deleted
+API
 
 </td><td width="50%">
 
-Soft Deleted
+API
 
 </td></tr>
 <tr><td width="50%">
 
-You're logged in!
+mo
 
 </td><td width="50%">
 
-You're logged in!
+mo
+
+</td></tr>
+<tr><td width="50%">
+
+N/A
+
+</td><td width="50%">
+
+N/A
 
 </td></tr>
 </table>

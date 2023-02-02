@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 36
+##### All missed: 60
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 59
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,65 +23,146 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-(and :count more error)
+Alabama
 
 </td><td width="50%">
 
-(and :count more error)
+Alabama
 
 </td></tr>
 <tr><td width="50%">
 
-(and :count more errors)
+Alaska
 
 </td><td width="50%">
 
-(and :count more errors)
+Alaska
 
 </td></tr>
 <tr><td width="50%">
 
-Choose Files
+Alberta
 
 </td><td width="50%">
 
-Choose Files
+Alberta
 
 </td></tr>
 <tr><td width="50%">
 
-Drop file or click to choose
+API
 
 </td><td width="50%">
 
-Drop file or click to choose
+API
 
 </td></tr>
 <tr><td width="50%">
 
-Drop files or click to choose
+Arizona
 
 </td><td width="50%">
 
-Drop files or click to choose
+Arizona
 
 </td></tr>
 <tr><td width="50%">
 
-Filename
+Arkansas
 
 </td><td width="50%">
 
-Filename
+Arkansas
 
 </td></tr>
 <tr><td width="50%">
 
-From
+Colorado
 
 </td><td width="50%">
 
-From
+Colorado
+
+</td></tr>
+<tr><td width="50%">
+
+Connecticut
+
+</td><td width="50%">
+
+Connecticut
+
+</td></tr>
+<tr><td width="50%">
+
+Delaware
+
+</td><td width="50%">
+
+Delaware
+
+</td></tr>
+<tr><td width="50%">
+
+Download PDF
+
+</td><td width="50%">
+
+Download PDF
+
+</td></tr>
+<tr><td width="50%">
+
+Florida
+
+</td><td width="50%">
+
+Florida
+
+</td></tr>
+<tr><td width="50%">
+
+Hawaii
+
+</td><td width="50%">
+
+Hawaii
+
+</td></tr>
+<tr><td width="50%">
+
+Idaho
+
+</td><td width="50%">
+
+Idaho
+
+</td></tr>
+<tr><td width="50%">
+
+Illinois
+
+</td><td width="50%">
+
+Illinois
+
+</td></tr>
+<tr><td width="50%">
+
+Indiana
+
+</td><td width="50%">
+
+Indiana
+
+</td></tr>
+<tr><td width="50%">
+
+Iowa
+
+</td><td width="50%">
+
+Iowa
 
 </td></tr>
 <tr><td width="50%">
@@ -95,65 +176,299 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
-Log Viewer
+Kansas
 
 </td><td width="50%">
 
-Log Viewer
+Kansas
 
 </td></tr>
 <tr><td width="50%">
 
-Logs
+Kentucky
 
 </td><td width="50%">
 
-Logs
+Kentucky
 
 </td></tr>
 <tr><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+Kiosk
 
 </td><td width="50%">
 
-Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+Kiosk
 
 </td></tr>
 <tr><td width="50%">
 
-Select All Dropdown
+Louisiana
 
 </td><td width="50%">
 
-Select All Dropdown
+Louisiana
 
 </td></tr>
 <tr><td width="50%">
 
-Soft Deleted
+Maine
 
 </td><td width="50%">
 
-Soft Deleted
+Maine
 
 </td></tr>
 <tr><td width="50%">
 
-Start polling
+Manitoba
 
 </td><td width="50%">
 
-Start polling
+Manitoba
 
 </td></tr>
 <tr><td width="50%">
 
-Stop polling
+Maryland
 
 </td><td width="50%">
 
-Stop polling
+Maryland
+
+</td></tr>
+<tr><td width="50%">
+
+Massachusetts
+
+</td><td width="50%">
+
+Massachusetts
+
+</td></tr>
+<tr><td width="50%">
+
+Michigan
+
+</td><td width="50%">
+
+Michigan
+
+</td></tr>
+<tr><td width="50%">
+
+Minnesota
+
+</td><td width="50%">
+
+Minnesota
+
+</td></tr>
+<tr><td width="50%">
+
+Mississippi
+
+</td><td width="50%">
+
+Mississippi
+
+</td></tr>
+<tr><td width="50%">
+
+Missouri
+
+</td><td width="50%">
+
+Missouri
+
+</td></tr>
+<tr><td width="50%">
+
+mo
+
+</td><td width="50%">
+
+mo
+
+</td></tr>
+<tr><td width="50%">
+
+Montana
+
+</td><td width="50%">
+
+Montana
+
+</td></tr>
+<tr><td width="50%">
+
+Nebraska
+
+</td><td width="50%">
+
+Nebraska
+
+</td></tr>
+<tr><td width="50%">
+
+Nevada
+
+</td><td width="50%">
+
+Nevada
+
+</td></tr>
+<tr><td width="50%">
+
+New Brunswick
+
+</td><td width="50%">
+
+New Brunswick
+
+</td></tr>
+<tr><td width="50%">
+
+New Hampshire
+
+</td><td width="50%">
+
+New Hampshire
+
+</td></tr>
+<tr><td width="50%">
+
+New Jersey
+
+</td><td width="50%">
+
+New Jersey
+
+</td></tr>
+<tr><td width="50%">
+
+New Mexico
+
+</td><td width="50%">
+
+New Mexico
+
+</td></tr>
+<tr><td width="50%">
+
+New York
+
+</td><td width="50%">
+
+New York
+
+</td></tr>
+<tr><td width="50%">
+
+Nova Scotia
+
+</td><td width="50%">
+
+Nova Scotia
+
+</td></tr>
+<tr><td width="50%">
+
+Nunavut
+
+</td><td width="50%">
+
+Nunavut
+
+</td></tr>
+<tr><td width="50%">
+
+Ohio
+
+</td><td width="50%">
+
+Ohio
+
+</td></tr>
+<tr><td width="50%">
+
+Oklahoma
+
+</td><td width="50%">
+
+Oklahoma
+
+</td></tr>
+<tr><td width="50%">
+
+Ontario
+
+</td><td width="50%">
+
+Ontario
+
+</td></tr>
+<tr><td width="50%">
+
+Oregon
+
+</td><td width="50%">
+
+Oregon
+
+</td></tr>
+<tr><td width="50%">
+
+Pennsylvania
+
+</td><td width="50%">
+
+Pennsylvania
+
+</td></tr>
+<tr><td width="50%">
+
+Percentage
+
+</td><td width="50%">
+
+Percentage
+
+</td></tr>
+<tr><td width="50%">
+
+Rhode Island
+
+</td><td width="50%">
+
+Rhode Island
+
+</td></tr>
+<tr><td width="50%">
+
+Saskatchewan
+
+</td><td width="50%">
+
+Saskatchewan
+
+</td></tr>
+<tr><td width="50%">
+
+Tennessee
+
+</td><td width="50%">
+
+Tennessee
+
+</td></tr>
+<tr><td width="50%">
+
+Texas
+
+</td><td width="50%">
+
+Texas
 
 </td></tr>
 <tr><td width="50%">
@@ -167,148 +482,74 @@ Type
 </td></tr>
 <tr><td width="50%">
 
-Unknown
+Utah
 
 </td><td width="50%">
 
-Unknown
+Utah
 
 </td></tr>
 <tr><td width="50%">
 
-You're logged in!
+Vermont
 
 </td><td width="50%">
 
-You're logged in!
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php-inline
-
-##### Missing: 12
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-This field may not end with one of the following: :values.
+Vermont
 
 </td></tr>
 <tr><td width="50%">
 
-doesnt_start_with
+Virginia
 
 </td><td width="50%">
 
-This field may not start with one of the following: :values.
+Virginia
 
 </td></tr>
 <tr><td width="50%">
 
-lowercase
+Washington
 
 </td><td width="50%">
 
-This field must be lowercase.
+Washington
 
 </td></tr>
 <tr><td width="50%">
 
-max_digits
+West Virginia
 
 </td><td width="50%">
 
-This field must not have more than :max digits.
+West Virginia
 
 </td></tr>
 <tr><td width="50%">
 
-min_digits
+Wisconsin
 
 </td><td width="50%">
 
-This field must have at least :min digits.
+Wisconsin
 
 </td></tr>
 <tr><td width="50%">
 
-password.letters
+Wyoming
 
 </td><td width="50%">
 
-This field must contain at least one letter.
+Wyoming
 
 </td></tr>
 <tr><td width="50%">
 
-password.mixed
+Yukon
 
 </td><td width="50%">
 
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-This field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-This field must be uppercase.
+Yukon
 
 </td></tr>
 </table>
@@ -319,7 +560,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 6
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -333,56 +574,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-doesnt_end_with
+attributes.team
 
 </td><td width="50%">
 
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-lowercase
-
-</td><td width="50%">
-
-The :attribute must be lowercase.
-
-</td></tr>
-<tr><td width="50%">
-
-max_digits
-
-</td><td width="50%">
-
-The :attribute must not have more than :max digits.
-
-</td></tr>
-<tr><td width="50%">
-
-min_digits
-
-</td><td width="50%">
-
-The :attribute must have at least :min digits.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if_accepted
-
-</td><td width="50%">
-
-The :attribute field is required when :other is accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-uppercase
-
-</td><td width="50%">
-
-The :attribute must be uppercase.
+team
 
 </td></tr>
 </table>

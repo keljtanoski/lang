@@ -25,7 +25,7 @@ az
 
 </td><td width="50%">
 
-@hs-qwerty
+@slvler
 
 </td></tr>
 <tr><td width="50%">
@@ -228,11 +228,20 @@ sw
 </td></tr>
 <tr><td width="50%">
 
+th
+
+</td><td width="50%">
+
+@pichaya07
+
+</td></tr>
+<tr><td width="50%">
+
 tr
 
 </td><td width="50%">
 
-@hs-qwerty
+@slvler
 
 </td></tr>
 <tr><td width="50%">
