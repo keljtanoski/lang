@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 191
+##### All missed: 189
 
 
 ### json
 
-##### Missing: 189
+##### Missing: 187
 
 <table width="100%">
 <tr><th width="50%">
@@ -1535,29 +1535,11 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Token Can
-
-</td><td width="50%">
-
-Token Can
-
-</td></tr>
-<tr><td width="50%">
-
 Top Up Balance
 
 </td><td width="50%">
 
 Top Up Balance
-
-</td></tr>
-<tr><td width="50%">
-
-Total:
-
-</td><td width="50%">
-
-Total:
 
 </td></tr>
 <tr><td width="50%">
