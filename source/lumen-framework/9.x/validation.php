@@ -1,17 +1,8 @@
 <?php
 
-return [
-    /*
-    |--------------------------------------------------------------------------
-    | Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines contain the default error messages used by
-    | the validator class. Some of these rules have multiple versions such
-    | as the size rules. Feel free to tweak each of these messages here.
-    |
-    */
+declare(strict_types=1);
 
+return [
     'accepted'        => 'The :attribute must be accepted.',
     'accepted_if'     => 'The :attribute must be accepted when :other is :value.',
     'active_url'      => 'The :attribute is not a valid URL.',
@@ -21,6 +12,7 @@ return [
     'alpha_dash'      => 'The :attribute must only contain letters, numbers, dashes and underscores.',
     'alpha_num'       => 'The :attribute must only contain letters and numbers.',
     'array'           => 'The :attribute must be an array.',
+    'attributes'      => [],
     'before'          => 'The :attribute must be a date before :date.',
     'before_or_equal' => 'The :attribute must be a date before or equal to :date.',
     'between'         => [
@@ -32,23 +24,28 @@ return [
     'boolean'          => 'The :attribute field must be true or false.',
     'confirmed'        => 'The :attribute confirmation does not match.',
     'current_password' => 'The password is incorrect.',
-    'date'             => 'The :attribute is not a valid date.',
-    'date_equals'      => 'The :attribute must be a date equal to :date.',
-    'date_format'      => 'The :attribute does not match the format :format.',
-    'declined'         => 'The :attribute must be declined.',
-    'declined_if'      => 'The :attribute must be declined when :other is :value.',
-    'different'        => 'The :attribute and :other must be different.',
-    'digits'           => 'The :attribute must be :digits digits.',
-    'digits_between'   => 'The :attribute must be between :min and :max digits.',
-    'dimensions'       => 'The :attribute has invalid image dimensions.',
-    'distinct'         => 'The :attribute field has a duplicate value.',
-    'email'            => 'The :attribute must be a valid email address.',
-    'ends_with'        => 'The :attribute must end with one of the following: :values.',
-    'enum'             => 'The selected :attribute is invalid.',
-    'exists'           => 'The selected :attribute is invalid.',
-    'file'             => 'The :attribute must be a file.',
-    'filled'           => 'The :attribute field must have a value.',
-    'gt'               => [
+    'custom'           => [
+        'attribute-name' => [
+            'rule-name' => 'custom-message',
+        ],
+    ],
+    'date'           => 'The :attribute is not a valid date.',
+    'date_equals'    => 'The :attribute must be a date equal to :date.',
+    'date_format'    => 'The :attribute does not match the format :format.',
+    'declined'       => 'The :attribute must be declined.',
+    'declined_if'    => 'The :attribute must be declined when :other is :value.',
+    'different'      => 'The :attribute and :other must be different.',
+    'digits'         => 'The :attribute must be :digits digits.',
+    'digits_between' => 'The :attribute must be between :min and :max digits.',
+    'dimensions'     => 'The :attribute has invalid image dimensions.',
+    'distinct'       => 'The :attribute field has a duplicate value.',
+    'email'          => 'The :attribute must be a valid email address.',
+    'ends_with'      => 'The :attribute must end with one of the following: :values.',
+    'enum'           => 'The selected :attribute is invalid.',
+    'exists'         => 'The selected :attribute is invalid.',
+    'file'           => 'The :attribute must be a file.',
+    'filled'         => 'The :attribute field must have a value.',
+    'gt'             => [
         'array'   => 'The :attribute must have more than :value items.',
         'file'    => 'The :attribute must be greater than :value kilobytes.',
         'numeric' => 'The :attribute must be greater than :value.',
@@ -128,34 +125,4 @@ return [
     'uploaded'    => 'The :attribute failed to upload.',
     'url'         => 'The :attribute must be a valid URL.',
     'uuid'        => 'The :attribute must be a valid UUID.',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Language Lines
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify custom validation messages for attributes using the
-    | convention "attribute.rule" to name the lines. This makes it quick to
-    | specify a specific custom language line for a given attribute rule.
-    |
-    */
-
-    'custom' => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
-        ],
-    ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Custom Validation Attributes
-    |--------------------------------------------------------------------------
-    |
-    | The following language lines are used to swap our attribute placeholder
-    | with something more reader friendly such as "E-Mail Address" instead
-    | of "email". This simply helps us make our message more expressive.
-    |
-    */
-
-    'attributes' => [],
 ];
