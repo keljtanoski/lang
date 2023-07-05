@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 189
+##### All missed: 199
 
 
 ### json
 
-##### Missing: 187
+##### Missing: 197
 
 <table width="100%">
 <tr><th width="50%">
@@ -266,6 +266,15 @@ Canada
 </td></tr>
 <tr><td width="50%">
 
+Checkout
+
+</td><td width="50%">
+
+Checkout
+
+</td></tr>
+<tr><td width="50%">
+
 Chile
 
 </td><td width="50%">
@@ -329,6 +338,15 @@ Cuba
 </td></tr>
 <tr><td width="50%">
 
+Curaçao
+
+</td><td width="50%">
+
+Curaçao
+
+</td></tr>
+<tr><td width="50%">
+
 Côte d'Ivoire
 
 </td><td width="50%">
@@ -374,6 +392,15 @@ Djibouti
 </td></tr>
 <tr><td width="50%">
 
+Dominica
+
+</td><td width="50%">
+
+Dominica
+
+</td></tr>
+<tr><td width="50%">
+
 Download PDF
 
 </td><td width="50%">
@@ -388,6 +415,15 @@ Ecuador
 </td><td width="50%">
 
 Ecuador
+
+</td></tr>
+<tr><td width="50%">
+
+El Salvador
+
+</td><td width="50%">
+
+El Salvador
 
 </td></tr>
 <tr><td width="50%">
@@ -617,6 +653,15 @@ Iran
 </td></tr>
 <tr><td width="50%">
 
+Isle Of Man
+
+</td><td width="50%">
+
+Isle of Man
+
+</td></tr>
+<tr><td width="50%">
+
 Isle of Man
 
 </td><td width="50%">
@@ -658,6 +703,15 @@ Japan
 </td><td width="50%">
 
 Japan
+
+</td></tr>
+<tr><td width="50%">
+
+Jersey
+
+</td><td width="50%">
+
+Jersey
 
 </td></tr>
 <tr><td width="50%">
@@ -820,6 +874,15 @@ Malaysia
 </td><td width="50%">
 
 Malaysia
+
+</td></tr>
+<tr><td width="50%">
+
+Mali
+
+</td><td width="50%">
+
+Mali
 
 </td></tr>
 <tr><td width="50%">
@@ -1211,6 +1274,15 @@ Oklahoma
 </td></tr>
 <tr><td width="50%">
 
+Oman
+
+</td><td width="50%">
+
+Oman
+
+</td></tr>
+<tr><td width="50%">
+
 Ontario
 
 </td><td width="50%">
@@ -1247,6 +1319,15 @@ Palau
 </td></tr>
 <tr><td width="50%">
 
+Panama
+
+</td><td width="50%">
+
+Panama
+
+</td></tr>
+<tr><td width="50%">
+
 Paraguay
 
 </td><td width="50%">
@@ -1261,6 +1342,15 @@ Pennsylvania
 </td><td width="50%">
 
 Pennsylvania
+
+</td></tr>
+<tr><td width="50%">
+
+Person
+
+</td><td width="50%">
+
+Person
 
 </td></tr>
 <tr><td width="50%">
@@ -1333,15 +1423,6 @@ Rwanda
 </td><td width="50%">
 
 Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthelemy
-
-</td><td width="50%">
-
-St. Barthélemy
 
 </td></tr>
 <tr><td width="50%">
@@ -1463,6 +1544,15 @@ Support
 </td></tr>
 <tr><td width="50%">
 
+Swaziland
+
+</td><td width="50%">
+
+Swaziland
+
+</td></tr>
+<tr><td width="50%">
+
 System
 
 </td><td width="50%">
@@ -1535,11 +1625,11 @@ Tokelau
 </td></tr>
 <tr><td width="50%">
 
-Top Up Balance
+Tonga
 
 </td><td width="50%">
 
-Top Up Balance
+Tonga
 
 </td></tr>
 <tr><td width="50%">

@@ -122,6 +122,15 @@ Day Trial
 </td></tr>
 <tr><td width="50%">
 
+Default
+
+</td><td width="50%">
+
+Default
+
+</td></tr>
+<tr><td width="50%">
+
 Delaware
 
 </td><td width="50%">
@@ -145,15 +154,6 @@ District of Columbia
 </td><td width="50%">
 
 District of Columbia
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail
-
-</td><td width="50%">
-
-E-Mail
 
 </td></tr>
 <tr><td width="50%">
@@ -446,15 +446,6 @@ Nunavut
 </td></tr>
 <tr><td width="50%">
 
-Ohio
-
-</td><td width="50%">
-
-Ohio
-
-</td></tr>
-<tr><td width="50%">
-
 Oklahoma
 
 </td><td width="50%">
@@ -586,6 +577,15 @@ Soft Deleted
 </td><td width="50%">
 
 Soft Deleted
+
+</td></tr>
+<tr><td width="50%">
+
+TAX
+
+</td><td width="50%">
+
+TAX
 
 </td></tr>
 <tr><td width="50%">

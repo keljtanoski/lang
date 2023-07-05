@@ -17,6 +17,7 @@
     "between.numeric": "Vrednost mora biti med :min in :max.",
     "between.string": "Vnos mora biti dolg od :min do :max znakov.",
     "boolean": "Polje mora biti da ali ne.",
+    "can": "To polje vsebuje nepooblaščeno vrednost.",
     "confirmed": "Potrditev se ne ujema.",
     "country": "To polje ni veljavna država.",
     "date": "Datum ni veljaven.",
