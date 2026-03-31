@@ -1,8 +1,8 @@
 # Laravel Localizations
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://banners.beyondco.de/Laravel%20Localizations.png?pattern=topography&style=style_2&fontSize=100px&md=1&showWatermark=1&icon=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&theme=dark&packageManager=composer+require+--dev&packageName=laravel-lang%2Flang&description=by+Laravel+Lang&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg">
-    <img src="https://banners.beyondco.de/Laravel%20Localizations.png?pattern=topography&style=style_2&fontSize=100px&md=1&showWatermark=1&icon=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg&theme=light&packageManager=composer+require+--dev&packageName=laravel-lang%2Flang&description=by+Laravel+Lang&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" alt="Laravel Localizations">
+    <source media="(prefers-color-scheme: dark)" srcset="https://banners.beyondco.de/Laravel%20Localizations.png?pattern=topography&style=style_2&fontSize=100px&md=1&showWatermark=1&theme=dark&packageManager=composer+require+--dev&packageName=laravel-lang%2Flang&description=List+of+126+languages+for+Laravel+Framework%2C+Laravel+Jetstream%2C+Laravel+Fortify%2C+Laravel+Breeze%2C+Laravel+Cashier%2C+Laravel+Nova%2C+Laravel+Spark+and+Laravel+UI&images=https%3A%2F%2Fwww.php.net%2Fimages%2Flogos%2Fnew-php-logo.svg">
+    <img src="https://banners.beyondco.de/Laravel%20Localizations.png?pattern=topography&style=style_2&fontSize=100px&md=1&showWatermark=1&theme=light&packageManager=composer+require+--dev&packageName=laravel-lang%2Flang&description=List+of+126+languages+for+Laravel+Framework%2C+Laravel+Jetstream%2C+Laravel+Fortify%2C+Laravel+Breeze%2C+Laravel+Cashier%2C+Laravel+Nova%2C+Laravel+Spark+and+Laravel+UI&images=https%3A%2F%2Fwww.php.net%2Fimages%2Flogos%2Fnew-php-logo.svg" alt="Laravel Localizations">
 </picture>
 
 [![Stable Version][badge_stable]][link_packagist]
